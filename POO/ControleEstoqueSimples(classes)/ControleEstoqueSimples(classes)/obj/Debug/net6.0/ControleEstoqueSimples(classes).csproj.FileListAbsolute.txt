@@ -1,0 +1,15 @@
+C:\Users\thiag\Desktop\Projetos C#\ControleEstoqueSimples(classes)\ControleEstoqueSimples(classes)\bin\Debug\net6.0\ControleEstoqueSimples(classes).exe
+C:\Users\thiag\Desktop\Projetos C#\ControleEstoqueSimples(classes)\ControleEstoqueSimples(classes)\bin\Debug\net6.0\ControleEstoqueSimples(classes).deps.json
+C:\Users\thiag\Desktop\Projetos C#\ControleEstoqueSimples(classes)\ControleEstoqueSimples(classes)\bin\Debug\net6.0\ControleEstoqueSimples(classes).runtimeconfig.json
+C:\Users\thiag\Desktop\Projetos C#\ControleEstoqueSimples(classes)\ControleEstoqueSimples(classes)\bin\Debug\net6.0\ControleEstoqueSimples(classes).dll
+C:\Users\thiag\Desktop\Projetos C#\ControleEstoqueSimples(classes)\ControleEstoqueSimples(classes)\bin\Debug\net6.0\ControleEstoqueSimples(classes).pdb
+C:\Users\thiag\Desktop\Projetos C#\ControleEstoqueSimples(classes)\ControleEstoqueSimples(classes)\obj\Debug\net6.0\ControleEstoqueSimples(classes).csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Projetos C#\ControleEstoqueSimples(classes)\ControleEstoqueSimples(classes)\obj\Debug\net6.0\ControleEstoqueSimples(classes).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Projetos C#\ControleEstoqueSimples(classes)\ControleEstoqueSimples(classes)\obj\Debug\net6.0\ControleEstoqueSimples(classes).AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Projetos C#\ControleEstoqueSimples(classes)\ControleEstoqueSimples(classes)\obj\Debug\net6.0\ControleEstoqueSimples(classes).AssemblyInfo.cs
+C:\Users\thiag\Desktop\Projetos C#\ControleEstoqueSimples(classes)\ControleEstoqueSimples(classes)\obj\Debug\net6.0\ControleEstoqueSimples(classes).csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Projetos C#\ControleEstoqueSimples(classes)\ControleEstoqueSimples(classes)\obj\Debug\net6.0\ControleEstoqueSimples(classes).dll
+C:\Users\thiag\Desktop\Projetos C#\ControleEstoqueSimples(classes)\ControleEstoqueSimples(classes)\obj\Debug\net6.0\refint\ControleEstoqueSimples(classes).dll
+C:\Users\thiag\Desktop\Projetos C#\ControleEstoqueSimples(classes)\ControleEstoqueSimples(classes)\obj\Debug\net6.0\ControleEstoqueSimples(classes).pdb
+C:\Users\thiag\Desktop\Projetos C#\ControleEstoqueSimples(classes)\ControleEstoqueSimples(classes)\obj\Debug\net6.0\ControleEstoqueSimples(classes).genruntimeconfig.cache
+C:\Users\thiag\Desktop\Projetos C#\ControleEstoqueSimples(classes)\ControleEstoqueSimples(classes)\obj\Debug\net6.0\ref\ControleEstoqueSimples(classes).dll

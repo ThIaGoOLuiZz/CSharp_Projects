@@ -1,0 +1,15 @@
+C:\Users\thiag\Desktop\Projetos C#\mediaSalario(classe)\mediaSalario(classe)\bin\Debug\net6.0\mediaSalario(classe).exe
+C:\Users\thiag\Desktop\Projetos C#\mediaSalario(classe)\mediaSalario(classe)\bin\Debug\net6.0\mediaSalario(classe).deps.json
+C:\Users\thiag\Desktop\Projetos C#\mediaSalario(classe)\mediaSalario(classe)\bin\Debug\net6.0\mediaSalario(classe).runtimeconfig.json
+C:\Users\thiag\Desktop\Projetos C#\mediaSalario(classe)\mediaSalario(classe)\bin\Debug\net6.0\mediaSalario(classe).dll
+C:\Users\thiag\Desktop\Projetos C#\mediaSalario(classe)\mediaSalario(classe)\bin\Debug\net6.0\mediaSalario(classe).pdb
+C:\Users\thiag\Desktop\Projetos C#\mediaSalario(classe)\mediaSalario(classe)\obj\Debug\net6.0\mediaSalario(classe).csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Projetos C#\mediaSalario(classe)\mediaSalario(classe)\obj\Debug\net6.0\mediaSalario(classe).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Projetos C#\mediaSalario(classe)\mediaSalario(classe)\obj\Debug\net6.0\mediaSalario(classe).AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Projetos C#\mediaSalario(classe)\mediaSalario(classe)\obj\Debug\net6.0\mediaSalario(classe).AssemblyInfo.cs
+C:\Users\thiag\Desktop\Projetos C#\mediaSalario(classe)\mediaSalario(classe)\obj\Debug\net6.0\mediaSalario(classe).csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Projetos C#\mediaSalario(classe)\mediaSalario(classe)\obj\Debug\net6.0\mediaSalario(classe).dll
+C:\Users\thiag\Desktop\Projetos C#\mediaSalario(classe)\mediaSalario(classe)\obj\Debug\net6.0\refint\mediaSalario(classe).dll
+C:\Users\thiag\Desktop\Projetos C#\mediaSalario(classe)\mediaSalario(classe)\obj\Debug\net6.0\mediaSalario(classe).pdb
+C:\Users\thiag\Desktop\Projetos C#\mediaSalario(classe)\mediaSalario(classe)\obj\Debug\net6.0\mediaSalario(classe).genruntimeconfig.cache
+C:\Users\thiag\Desktop\Projetos C#\mediaSalario(classe)\mediaSalario(classe)\obj\Debug\net6.0\ref\mediaSalario(classe).dll

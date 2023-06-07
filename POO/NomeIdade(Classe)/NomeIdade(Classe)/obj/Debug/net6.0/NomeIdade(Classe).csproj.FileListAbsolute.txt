@@ -1,0 +1,15 @@
+C:\Users\thiag\Desktop\Projetos C#\NomeIdade(Classe)\NomeIdade(Classe)\bin\Debug\net6.0\NomeIdade(Classe).exe
+C:\Users\thiag\Desktop\Projetos C#\NomeIdade(Classe)\NomeIdade(Classe)\bin\Debug\net6.0\NomeIdade(Classe).deps.json
+C:\Users\thiag\Desktop\Projetos C#\NomeIdade(Classe)\NomeIdade(Classe)\bin\Debug\net6.0\NomeIdade(Classe).runtimeconfig.json
+C:\Users\thiag\Desktop\Projetos C#\NomeIdade(Classe)\NomeIdade(Classe)\bin\Debug\net6.0\NomeIdade(Classe).dll
+C:\Users\thiag\Desktop\Projetos C#\NomeIdade(Classe)\NomeIdade(Classe)\bin\Debug\net6.0\NomeIdade(Classe).pdb
+C:\Users\thiag\Desktop\Projetos C#\NomeIdade(Classe)\NomeIdade(Classe)\obj\Debug\net6.0\NomeIdade(Classe).csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Projetos C#\NomeIdade(Classe)\NomeIdade(Classe)\obj\Debug\net6.0\NomeIdade(Classe).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Projetos C#\NomeIdade(Classe)\NomeIdade(Classe)\obj\Debug\net6.0\NomeIdade(Classe).AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Projetos C#\NomeIdade(Classe)\NomeIdade(Classe)\obj\Debug\net6.0\NomeIdade(Classe).AssemblyInfo.cs
+C:\Users\thiag\Desktop\Projetos C#\NomeIdade(Classe)\NomeIdade(Classe)\obj\Debug\net6.0\NomeIdade(Classe).csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Projetos C#\NomeIdade(Classe)\NomeIdade(Classe)\obj\Debug\net6.0\NomeIdade(Classe).dll
+C:\Users\thiag\Desktop\Projetos C#\NomeIdade(Classe)\NomeIdade(Classe)\obj\Debug\net6.0\refint\NomeIdade(Classe).dll
+C:\Users\thiag\Desktop\Projetos C#\NomeIdade(Classe)\NomeIdade(Classe)\obj\Debug\net6.0\NomeIdade(Classe).pdb
+C:\Users\thiag\Desktop\Projetos C#\NomeIdade(Classe)\NomeIdade(Classe)\obj\Debug\net6.0\NomeIdade(Classe).genruntimeconfig.cache
+C:\Users\thiag\Desktop\Projetos C#\NomeIdade(Classe)\NomeIdade(Classe)\obj\Debug\net6.0\ref\NomeIdade(Classe).dll
