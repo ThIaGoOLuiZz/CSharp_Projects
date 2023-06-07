@@ -1,0 +1,15 @@
+C:\Users\thiag_000\Desktop\Projetos C#\Programa impar ou par\Programa impar ou par\bin\Debug\net6.0\Programa impar ou par.exe
+C:\Users\thiag_000\Desktop\Projetos C#\Programa impar ou par\Programa impar ou par\bin\Debug\net6.0\Programa impar ou par.deps.json
+C:\Users\thiag_000\Desktop\Projetos C#\Programa impar ou par\Programa impar ou par\bin\Debug\net6.0\Programa impar ou par.runtimeconfig.json
+C:\Users\thiag_000\Desktop\Projetos C#\Programa impar ou par\Programa impar ou par\bin\Debug\net6.0\Programa impar ou par.dll
+C:\Users\thiag_000\Desktop\Projetos C#\Programa impar ou par\Programa impar ou par\bin\Debug\net6.0\Programa impar ou par.pdb
+C:\Users\thiag_000\Desktop\Projetos C#\Programa impar ou par\Programa impar ou par\obj\Debug\net6.0\Programa impar ou par.csproj.AssemblyReference.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Programa impar ou par\Programa impar ou par\obj\Debug\net6.0\Programa impar ou par.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag_000\Desktop\Projetos C#\Programa impar ou par\Programa impar ou par\obj\Debug\net6.0\Programa impar ou par.AssemblyInfoInputs.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Programa impar ou par\Programa impar ou par\obj\Debug\net6.0\Programa impar ou par.AssemblyInfo.cs
+C:\Users\thiag_000\Desktop\Projetos C#\Programa impar ou par\Programa impar ou par\obj\Debug\net6.0\Programa impar ou par.csproj.CoreCompileInputs.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Programa impar ou par\Programa impar ou par\obj\Debug\net6.0\Programa impar ou par.dll
+C:\Users\thiag_000\Desktop\Projetos C#\Programa impar ou par\Programa impar ou par\obj\Debug\net6.0\refint\Programa impar ou par.dll
+C:\Users\thiag_000\Desktop\Projetos C#\Programa impar ou par\Programa impar ou par\obj\Debug\net6.0\Programa impar ou par.pdb
+C:\Users\thiag_000\Desktop\Projetos C#\Programa impar ou par\Programa impar ou par\obj\Debug\net6.0\Programa impar ou par.genruntimeconfig.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Programa impar ou par\Programa impar ou par\obj\Debug\net6.0\ref\Programa impar ou par.dll
