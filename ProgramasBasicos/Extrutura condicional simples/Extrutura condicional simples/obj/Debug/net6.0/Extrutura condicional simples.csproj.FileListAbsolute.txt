@@ -1,0 +1,15 @@
+C:\Users\thiag_000\Desktop\Projetos C#\Extrutura condicional simples\Extrutura condicional simples\bin\Debug\net6.0\Extrutura condicional simples.exe
+C:\Users\thiag_000\Desktop\Projetos C#\Extrutura condicional simples\Extrutura condicional simples\bin\Debug\net6.0\Extrutura condicional simples.deps.json
+C:\Users\thiag_000\Desktop\Projetos C#\Extrutura condicional simples\Extrutura condicional simples\bin\Debug\net6.0\Extrutura condicional simples.runtimeconfig.json
+C:\Users\thiag_000\Desktop\Projetos C#\Extrutura condicional simples\Extrutura condicional simples\bin\Debug\net6.0\Extrutura condicional simples.dll
+C:\Users\thiag_000\Desktop\Projetos C#\Extrutura condicional simples\Extrutura condicional simples\bin\Debug\net6.0\Extrutura condicional simples.pdb
+C:\Users\thiag_000\Desktop\Projetos C#\Extrutura condicional simples\Extrutura condicional simples\obj\Debug\net6.0\Extrutura condicional simples.csproj.AssemblyReference.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Extrutura condicional simples\Extrutura condicional simples\obj\Debug\net6.0\Extrutura condicional simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag_000\Desktop\Projetos C#\Extrutura condicional simples\Extrutura condicional simples\obj\Debug\net6.0\Extrutura condicional simples.AssemblyInfoInputs.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Extrutura condicional simples\Extrutura condicional simples\obj\Debug\net6.0\Extrutura condicional simples.AssemblyInfo.cs
+C:\Users\thiag_000\Desktop\Projetos C#\Extrutura condicional simples\Extrutura condicional simples\obj\Debug\net6.0\Extrutura condicional simples.csproj.CoreCompileInputs.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Extrutura condicional simples\Extrutura condicional simples\obj\Debug\net6.0\Extrutura condicional simples.dll
+C:\Users\thiag_000\Desktop\Projetos C#\Extrutura condicional simples\Extrutura condicional simples\obj\Debug\net6.0\refint\Extrutura condicional simples.dll
+C:\Users\thiag_000\Desktop\Projetos C#\Extrutura condicional simples\Extrutura condicional simples\obj\Debug\net6.0\Extrutura condicional simples.pdb
+C:\Users\thiag_000\Desktop\Projetos C#\Extrutura condicional simples\Extrutura condicional simples\obj\Debug\net6.0\Extrutura condicional simples.genruntimeconfig.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Extrutura condicional simples\Extrutura condicional simples\obj\Debug\net6.0\ref\Extrutura condicional simples.dll

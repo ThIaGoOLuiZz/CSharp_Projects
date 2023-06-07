@@ -1,0 +1,15 @@
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Media de valores (For)\Media de valores (For)\bin\Debug\net6.0\Media de valores (For).exe
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Media de valores (For)\Media de valores (For)\bin\Debug\net6.0\Media de valores (For).deps.json
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Media de valores (For)\Media de valores (For)\bin\Debug\net6.0\Media de valores (For).runtimeconfig.json
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Media de valores (For)\Media de valores (For)\bin\Debug\net6.0\Media de valores (For).dll
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Media de valores (For)\Media de valores (For)\bin\Debug\net6.0\Media de valores (For).pdb
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Media de valores (For)\Media de valores (For)\obj\Debug\net6.0\Media de valores (For).csproj.AssemblyReference.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Media de valores (For)\Media de valores (For)\obj\Debug\net6.0\Media de valores (For).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Media de valores (For)\Media de valores (For)\obj\Debug\net6.0\Media de valores (For).AssemblyInfoInputs.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Media de valores (For)\Media de valores (For)\obj\Debug\net6.0\Media de valores (For).AssemblyInfo.cs
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Media de valores (For)\Media de valores (For)\obj\Debug\net6.0\Media de valores (For).csproj.CoreCompileInputs.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Media de valores (For)\Media de valores (For)\obj\Debug\net6.0\Media de valores (For).dll
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Media de valores (For)\Media de valores (For)\obj\Debug\net6.0\refint\Media de valores (For).dll
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Media de valores (For)\Media de valores (For)\obj\Debug\net6.0\Media de valores (For).pdb
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Media de valores (For)\Media de valores (For)\obj\Debug\net6.0\Media de valores (For).genruntimeconfig.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Media de valores (For)\Media de valores (For)\obj\Debug\net6.0\ref\Media de valores (For).dll
