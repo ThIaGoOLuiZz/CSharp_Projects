@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\POO\AtualizacoesEstoque\AtualizacoesEstoque\bin\Debug\net8.0\AtualizacoesEstoque.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\POO\AtualizacoesEstoque\AtualizacoesEstoque\bin\Debug\net8.0\AtualizacoesEstoque.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\POO\AtualizacoesEstoque\AtualizacoesEstoque\bin\Debug\net8.0\AtualizacoesEstoque.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\POO\AtualizacoesEstoque\AtualizacoesEstoque\bin\Debug\net8.0\AtualizacoesEstoque.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\POO\AtualizacoesEstoque\AtualizacoesEstoque\bin\Debug\net8.0\AtualizacoesEstoque.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\POO\AtualizacoesEstoque\AtualizacoesEstoque\obj\Debug\net8.0\AtualizacoesEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\POO\AtualizacoesEstoque\AtualizacoesEstoque\obj\Debug\net8.0\AtualizacoesEstoque.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\POO\AtualizacoesEstoque\AtualizacoesEstoque\obj\Debug\net8.0\AtualizacoesEstoque.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\POO\AtualizacoesEstoque\AtualizacoesEstoque\obj\Debug\net8.0\AtualizacoesEstoque.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\POO\AtualizacoesEstoque\AtualizacoesEstoque\obj\Debug\net8.0\AtualizacoesEstoque.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\POO\AtualizacoesEstoque\AtualizacoesEstoque\obj\Debug\net8.0\AtualizacoesEstoque.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\POO\AtualizacoesEstoque\AtualizacoesEstoque\obj\Debug\net8.0\refint\AtualizacoesEstoque.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\POO\AtualizacoesEstoque\AtualizacoesEstoque\obj\Debug\net8.0\AtualizacoesEstoque.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\POO\AtualizacoesEstoque\AtualizacoesEstoque\obj\Debug\net8.0\AtualizacoesEstoque.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\POO\AtualizacoesEstoque\AtualizacoesEstoque\obj\Debug\net8.0\ref\AtualizacoesEstoque.dll
