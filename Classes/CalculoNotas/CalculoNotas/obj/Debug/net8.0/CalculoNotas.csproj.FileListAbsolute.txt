@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoNotas\CalculoNotas\bin\Debug\net8.0\CalculoNotas.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoNotas\CalculoNotas\bin\Debug\net8.0\CalculoNotas.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoNotas\CalculoNotas\bin\Debug\net8.0\CalculoNotas.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoNotas\CalculoNotas\bin\Debug\net8.0\CalculoNotas.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoNotas\CalculoNotas\bin\Debug\net8.0\CalculoNotas.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoNotas\CalculoNotas\obj\Debug\net8.0\CalculoNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoNotas\CalculoNotas\obj\Debug\net8.0\CalculoNotas.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoNotas\CalculoNotas\obj\Debug\net8.0\CalculoNotas.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoNotas\CalculoNotas\obj\Debug\net8.0\CalculoNotas.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoNotas\CalculoNotas\obj\Debug\net8.0\CalculoNotas.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoNotas\CalculoNotas\obj\Debug\net8.0\CalculoNotas.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoNotas\CalculoNotas\obj\Debug\net8.0\refint\CalculoNotas.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoNotas\CalculoNotas\obj\Debug\net8.0\CalculoNotas.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoNotas\CalculoNotas\obj\Debug\net8.0\CalculoNotas.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoNotas\CalculoNotas\obj\Debug\net8.0\ref\CalculoNotas.dll
