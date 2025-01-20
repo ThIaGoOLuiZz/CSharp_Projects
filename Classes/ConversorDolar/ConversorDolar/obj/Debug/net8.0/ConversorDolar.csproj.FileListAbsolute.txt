@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\ConversorDolar\ConversorDolar\bin\Debug\net8.0\ConversorDolar.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\ConversorDolar\ConversorDolar\bin\Debug\net8.0\ConversorDolar.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\ConversorDolar\ConversorDolar\bin\Debug\net8.0\ConversorDolar.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\ConversorDolar\ConversorDolar\bin\Debug\net8.0\ConversorDolar.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\ConversorDolar\ConversorDolar\bin\Debug\net8.0\ConversorDolar.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\ConversorDolar\ConversorDolar\obj\Debug\net8.0\ConversorDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\ConversorDolar\ConversorDolar\obj\Debug\net8.0\ConversorDolar.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\ConversorDolar\ConversorDolar\obj\Debug\net8.0\ConversorDolar.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\ConversorDolar\ConversorDolar\obj\Debug\net8.0\ConversorDolar.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\ConversorDolar\ConversorDolar\obj\Debug\net8.0\ConversorDolar.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\ConversorDolar\ConversorDolar\obj\Debug\net8.0\ConversorDolar.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\ConversorDolar\ConversorDolar\obj\Debug\net8.0\refint\ConversorDolar.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\ConversorDolar\ConversorDolar\obj\Debug\net8.0\ConversorDolar.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\ConversorDolar\ConversorDolar\obj\Debug\net8.0\ConversorDolar.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\ConversorDolar\ConversorDolar\obj\Debug\net8.0\ref\ConversorDolar.dll
