@@ -1,0 +1,15 @@
+C:\Users\thiag_000\Desktop\Projetos C#\Condicao Intervalo\Condicao Intervalo\bin\Debug\net6.0\Condicao Intervalo.exe
+C:\Users\thiag_000\Desktop\Projetos C#\Condicao Intervalo\Condicao Intervalo\bin\Debug\net6.0\Condicao Intervalo.deps.json
+C:\Users\thiag_000\Desktop\Projetos C#\Condicao Intervalo\Condicao Intervalo\bin\Debug\net6.0\Condicao Intervalo.runtimeconfig.json
+C:\Users\thiag_000\Desktop\Projetos C#\Condicao Intervalo\Condicao Intervalo\bin\Debug\net6.0\Condicao Intervalo.dll
+C:\Users\thiag_000\Desktop\Projetos C#\Condicao Intervalo\Condicao Intervalo\bin\Debug\net6.0\Condicao Intervalo.pdb
+C:\Users\thiag_000\Desktop\Projetos C#\Condicao Intervalo\Condicao Intervalo\obj\Debug\net6.0\Condicao Intervalo.csproj.AssemblyReference.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Condicao Intervalo\Condicao Intervalo\obj\Debug\net6.0\Condicao Intervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag_000\Desktop\Projetos C#\Condicao Intervalo\Condicao Intervalo\obj\Debug\net6.0\Condicao Intervalo.AssemblyInfoInputs.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Condicao Intervalo\Condicao Intervalo\obj\Debug\net6.0\Condicao Intervalo.AssemblyInfo.cs
+C:\Users\thiag_000\Desktop\Projetos C#\Condicao Intervalo\Condicao Intervalo\obj\Debug\net6.0\Condicao Intervalo.csproj.CoreCompileInputs.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Condicao Intervalo\Condicao Intervalo\obj\Debug\net6.0\Condicao Intervalo.dll
+C:\Users\thiag_000\Desktop\Projetos C#\Condicao Intervalo\Condicao Intervalo\obj\Debug\net6.0\refint\Condicao Intervalo.dll
+C:\Users\thiag_000\Desktop\Projetos C#\Condicao Intervalo\Condicao Intervalo\obj\Debug\net6.0\Condicao Intervalo.pdb
+C:\Users\thiag_000\Desktop\Projetos C#\Condicao Intervalo\Condicao Intervalo\obj\Debug\net6.0\Condicao Intervalo.genruntimeconfig.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Condicao Intervalo\Condicao Intervalo\obj\Debug\net6.0\ref\Condicao Intervalo.dll

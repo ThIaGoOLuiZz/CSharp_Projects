@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Extrutura condicional simples/1.0.0": {
+        "runtime": {
+          "Extrutura condicional simples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Extrutura condicional simples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\thiag_000\Desktop\Projetos C#\ProgramaMultiplos\ProgramaMultiplos\bin\Debug\net6.0\ProgramaMultiplos.exe
+C:\Users\thiag_000\Desktop\Projetos C#\ProgramaMultiplos\ProgramaMultiplos\bin\Debug\net6.0\ProgramaMultiplos.deps.json
+C:\Users\thiag_000\Desktop\Projetos C#\ProgramaMultiplos\ProgramaMultiplos\bin\Debug\net6.0\ProgramaMultiplos.runtimeconfig.json
+C:\Users\thiag_000\Desktop\Projetos C#\ProgramaMultiplos\ProgramaMultiplos\bin\Debug\net6.0\ProgramaMultiplos.dll
+C:\Users\thiag_000\Desktop\Projetos C#\ProgramaMultiplos\ProgramaMultiplos\bin\Debug\net6.0\ProgramaMultiplos.pdb
+C:\Users\thiag_000\Desktop\Projetos C#\ProgramaMultiplos\ProgramaMultiplos\obj\Debug\net6.0\ProgramaMultiplos.csproj.AssemblyReference.cache
+C:\Users\thiag_000\Desktop\Projetos C#\ProgramaMultiplos\ProgramaMultiplos\obj\Debug\net6.0\ProgramaMultiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag_000\Desktop\Projetos C#\ProgramaMultiplos\ProgramaMultiplos\obj\Debug\net6.0\ProgramaMultiplos.AssemblyInfoInputs.cache
+C:\Users\thiag_000\Desktop\Projetos C#\ProgramaMultiplos\ProgramaMultiplos\obj\Debug\net6.0\ProgramaMultiplos.AssemblyInfo.cs
+C:\Users\thiag_000\Desktop\Projetos C#\ProgramaMultiplos\ProgramaMultiplos\obj\Debug\net6.0\ProgramaMultiplos.csproj.CoreCompileInputs.cache
+C:\Users\thiag_000\Desktop\Projetos C#\ProgramaMultiplos\ProgramaMultiplos\obj\Debug\net6.0\ProgramaMultiplos.dll
+C:\Users\thiag_000\Desktop\Projetos C#\ProgramaMultiplos\ProgramaMultiplos\obj\Debug\net6.0\refint\ProgramaMultiplos.dll
+C:\Users\thiag_000\Desktop\Projetos C#\ProgramaMultiplos\ProgramaMultiplos\obj\Debug\net6.0\ProgramaMultiplos.pdb
+C:\Users\thiag_000\Desktop\Projetos C#\ProgramaMultiplos\ProgramaMultiplos\obj\Debug\net6.0\ProgramaMultiplos.genruntimeconfig.cache
+C:\Users\thiag_000\Desktop\Projetos C#\ProgramaMultiplos\ProgramaMultiplos\obj\Debug\net6.0\ref\ProgramaMultiplos.dll

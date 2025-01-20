@@ -1,0 +1,15 @@
+C:\Users\thiag_000\Desktop\Projetos C#\Leitura dos Quadrantes\Leitura dos Quadrantes\bin\Debug\net6.0\Leitura dos Quadrantes.exe
+C:\Users\thiag_000\Desktop\Projetos C#\Leitura dos Quadrantes\Leitura dos Quadrantes\bin\Debug\net6.0\Leitura dos Quadrantes.deps.json
+C:\Users\thiag_000\Desktop\Projetos C#\Leitura dos Quadrantes\Leitura dos Quadrantes\bin\Debug\net6.0\Leitura dos Quadrantes.runtimeconfig.json
+C:\Users\thiag_000\Desktop\Projetos C#\Leitura dos Quadrantes\Leitura dos Quadrantes\bin\Debug\net6.0\Leitura dos Quadrantes.dll
+C:\Users\thiag_000\Desktop\Projetos C#\Leitura dos Quadrantes\Leitura dos Quadrantes\bin\Debug\net6.0\Leitura dos Quadrantes.pdb
+C:\Users\thiag_000\Desktop\Projetos C#\Leitura dos Quadrantes\Leitura dos Quadrantes\obj\Debug\net6.0\Leitura dos Quadrantes.csproj.AssemblyReference.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Leitura dos Quadrantes\Leitura dos Quadrantes\obj\Debug\net6.0\Leitura dos Quadrantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag_000\Desktop\Projetos C#\Leitura dos Quadrantes\Leitura dos Quadrantes\obj\Debug\net6.0\Leitura dos Quadrantes.AssemblyInfoInputs.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Leitura dos Quadrantes\Leitura dos Quadrantes\obj\Debug\net6.0\Leitura dos Quadrantes.AssemblyInfo.cs
+C:\Users\thiag_000\Desktop\Projetos C#\Leitura dos Quadrantes\Leitura dos Quadrantes\obj\Debug\net6.0\Leitura dos Quadrantes.csproj.CoreCompileInputs.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Leitura dos Quadrantes\Leitura dos Quadrantes\obj\Debug\net6.0\Leitura dos Quadrantes.dll
+C:\Users\thiag_000\Desktop\Projetos C#\Leitura dos Quadrantes\Leitura dos Quadrantes\obj\Debug\net6.0\refint\Leitura dos Quadrantes.dll
+C:\Users\thiag_000\Desktop\Projetos C#\Leitura dos Quadrantes\Leitura dos Quadrantes\obj\Debug\net6.0\Leitura dos Quadrantes.pdb
+C:\Users\thiag_000\Desktop\Projetos C#\Leitura dos Quadrantes\Leitura dos Quadrantes\obj\Debug\net6.0\Leitura dos Quadrantes.genruntimeconfig.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Leitura dos Quadrantes\Leitura dos Quadrantes\obj\Debug\net6.0\ref\Leitura dos Quadrantes.dll

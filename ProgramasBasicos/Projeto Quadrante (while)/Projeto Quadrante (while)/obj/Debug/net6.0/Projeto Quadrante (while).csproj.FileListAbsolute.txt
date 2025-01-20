@@ -1,0 +1,15 @@
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Projeto Quadrante (while)\Projeto Quadrante (while)\bin\Debug\net6.0\Projeto Quadrante (while).exe
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Projeto Quadrante (while)\Projeto Quadrante (while)\bin\Debug\net6.0\Projeto Quadrante (while).deps.json
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Projeto Quadrante (while)\Projeto Quadrante (while)\bin\Debug\net6.0\Projeto Quadrante (while).runtimeconfig.json
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Projeto Quadrante (while)\Projeto Quadrante (while)\bin\Debug\net6.0\Projeto Quadrante (while).dll
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Projeto Quadrante (while)\Projeto Quadrante (while)\bin\Debug\net6.0\Projeto Quadrante (while).pdb
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Projeto Quadrante (while)\Projeto Quadrante (while)\obj\Debug\net6.0\Projeto Quadrante (while).csproj.AssemblyReference.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Projeto Quadrante (while)\Projeto Quadrante (while)\obj\Debug\net6.0\Projeto Quadrante (while).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Projeto Quadrante (while)\Projeto Quadrante (while)\obj\Debug\net6.0\Projeto Quadrante (while).AssemblyInfoInputs.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Projeto Quadrante (while)\Projeto Quadrante (while)\obj\Debug\net6.0\Projeto Quadrante (while).AssemblyInfo.cs
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Projeto Quadrante (while)\Projeto Quadrante (while)\obj\Debug\net6.0\Projeto Quadrante (while).csproj.CoreCompileInputs.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Projeto Quadrante (while)\Projeto Quadrante (while)\obj\Debug\net6.0\Projeto Quadrante (while).dll
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Projeto Quadrante (while)\Projeto Quadrante (while)\obj\Debug\net6.0\refint\Projeto Quadrante (while).dll
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Projeto Quadrante (while)\Projeto Quadrante (while)\obj\Debug\net6.0\Projeto Quadrante (while).pdb
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Projeto Quadrante (while)\Projeto Quadrante (while)\obj\Debug\net6.0\Projeto Quadrante (while).genruntimeconfig.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Exercicios 3\Projeto Quadrante (while)\Projeto Quadrante (while)\obj\Debug\net6.0\ref\Projeto Quadrante (while).dll

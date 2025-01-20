@@ -1,0 +1,15 @@
+C:\Users\thiag_000\Desktop\Projetos C#\Segundo\Segundo\bin\Debug\net6.0\Segundo.exe
+C:\Users\thiag_000\Desktop\Projetos C#\Segundo\Segundo\bin\Debug\net6.0\Segundo.deps.json
+C:\Users\thiag_000\Desktop\Projetos C#\Segundo\Segundo\bin\Debug\net6.0\Segundo.runtimeconfig.json
+C:\Users\thiag_000\Desktop\Projetos C#\Segundo\Segundo\bin\Debug\net6.0\Segundo.dll
+C:\Users\thiag_000\Desktop\Projetos C#\Segundo\Segundo\bin\Debug\net6.0\Segundo.pdb
+C:\Users\thiag_000\Desktop\Projetos C#\Segundo\Segundo\obj\Debug\net6.0\Segundo.csproj.AssemblyReference.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Segundo\Segundo\obj\Debug\net6.0\Segundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag_000\Desktop\Projetos C#\Segundo\Segundo\obj\Debug\net6.0\Segundo.AssemblyInfoInputs.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Segundo\Segundo\obj\Debug\net6.0\Segundo.AssemblyInfo.cs
+C:\Users\thiag_000\Desktop\Projetos C#\Segundo\Segundo\obj\Debug\net6.0\Segundo.csproj.CoreCompileInputs.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Segundo\Segundo\obj\Debug\net6.0\Segundo.dll
+C:\Users\thiag_000\Desktop\Projetos C#\Segundo\Segundo\obj\Debug\net6.0\refint\Segundo.dll
+C:\Users\thiag_000\Desktop\Projetos C#\Segundo\Segundo\obj\Debug\net6.0\Segundo.pdb
+C:\Users\thiag_000\Desktop\Projetos C#\Segundo\Segundo\obj\Debug\net6.0\Segundo.genruntimeconfig.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Segundo\Segundo\obj\Debug\net6.0\ref\Segundo.dll
