@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculosRetangulo\CalculosRetangulo\bin\Debug\net8.0\CalculosRetangulo.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculosRetangulo\CalculosRetangulo\bin\Debug\net8.0\CalculosRetangulo.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculosRetangulo\CalculosRetangulo\bin\Debug\net8.0\CalculosRetangulo.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculosRetangulo\CalculosRetangulo\bin\Debug\net8.0\CalculosRetangulo.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculosRetangulo\CalculosRetangulo\bin\Debug\net8.0\CalculosRetangulo.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculosRetangulo\CalculosRetangulo\obj\Debug\net8.0\CalculosRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculosRetangulo\CalculosRetangulo\obj\Debug\net8.0\CalculosRetangulo.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculosRetangulo\CalculosRetangulo\obj\Debug\net8.0\CalculosRetangulo.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculosRetangulo\CalculosRetangulo\obj\Debug\net8.0\CalculosRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculosRetangulo\CalculosRetangulo\obj\Debug\net8.0\CalculosRetangulo.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculosRetangulo\CalculosRetangulo\obj\Debug\net8.0\CalculosRetangulo.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculosRetangulo\CalculosRetangulo\obj\Debug\net8.0\refint\CalculosRetangulo.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculosRetangulo\CalculosRetangulo\obj\Debug\net8.0\CalculosRetangulo.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculosRetangulo\CalculosRetangulo\obj\Debug\net8.0\CalculosRetangulo.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculosRetangulo\CalculosRetangulo\obj\Debug\net8.0\ref\CalculosRetangulo.dll
