@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\AumentoSalario\AumentoSalario\bin\Debug\net8.0\AumentoSalario.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\AumentoSalario\AumentoSalario\bin\Debug\net8.0\AumentoSalario.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\AumentoSalario\AumentoSalario\bin\Debug\net8.0\AumentoSalario.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\AumentoSalario\AumentoSalario\bin\Debug\net8.0\AumentoSalario.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\AumentoSalario\AumentoSalario\bin\Debug\net8.0\AumentoSalario.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\AumentoSalario\AumentoSalario\obj\Debug\net8.0\AumentoSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\AumentoSalario\AumentoSalario\obj\Debug\net8.0\AumentoSalario.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\AumentoSalario\AumentoSalario\obj\Debug\net8.0\AumentoSalario.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\AumentoSalario\AumentoSalario\obj\Debug\net8.0\AumentoSalario.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\AumentoSalario\AumentoSalario\obj\Debug\net8.0\AumentoSalario.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\AumentoSalario\AumentoSalario\obj\Debug\net8.0\AumentoSalario.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\AumentoSalario\AumentoSalario\obj\Debug\net8.0\refint\AumentoSalario.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\AumentoSalario\AumentoSalario\obj\Debug\net8.0\AumentoSalario.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\AumentoSalario\AumentoSalario\obj\Debug\net8.0\AumentoSalario.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\AumentoSalario\AumentoSalario\obj\Debug\net8.0\ref\AumentoSalario.dll
