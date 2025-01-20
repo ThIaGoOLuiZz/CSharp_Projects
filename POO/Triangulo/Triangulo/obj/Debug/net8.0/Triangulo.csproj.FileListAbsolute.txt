@@ -1,0 +1,14 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\Triangulo\Triangulo\bin\Debug\net8.0\Triangulo.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\Triangulo\Triangulo\bin\Debug\net8.0\Triangulo.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\Triangulo\Triangulo\bin\Debug\net8.0\Triangulo.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\Triangulo\Triangulo\bin\Debug\net8.0\Triangulo.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\Triangulo\Triangulo\bin\Debug\net8.0\Triangulo.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\Triangulo\Triangulo\obj\Debug\net8.0\refint\Triangulo.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\Triangulo\Triangulo\obj\Debug\net8.0\ref\Triangulo.dll

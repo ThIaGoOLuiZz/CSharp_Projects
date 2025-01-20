@@ -1,0 +1,14 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\net8.0\PessoaMaisVelha.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\net8.0\PessoaMaisVelha.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\net8.0\PessoaMaisVelha.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\net8.0\PessoaMaisVelha.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\net8.0\PessoaMaisVelha.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net8.0\PessoaMaisVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net8.0\PessoaMaisVelha.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net8.0\PessoaMaisVelha.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net8.0\PessoaMaisVelha.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net8.0\PessoaMaisVelha.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net8.0\refint\PessoaMaisVelha.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net8.0\PessoaMaisVelha.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net8.0\PessoaMaisVelha.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\POO\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net8.0\ref\PessoaMaisVelha.dll
