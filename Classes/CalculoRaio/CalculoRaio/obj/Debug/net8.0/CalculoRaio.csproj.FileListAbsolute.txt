@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoRaio\CalculoRaio\bin\Debug\net8.0\CalculoRaio.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoRaio\CalculoRaio\bin\Debug\net8.0\CalculoRaio.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoRaio\CalculoRaio\bin\Debug\net8.0\CalculoRaio.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoRaio\CalculoRaio\bin\Debug\net8.0\CalculoRaio.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoRaio\CalculoRaio\bin\Debug\net8.0\CalculoRaio.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoRaio\CalculoRaio\obj\Debug\net8.0\CalculoRaio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoRaio\CalculoRaio\obj\Debug\net8.0\CalculoRaio.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoRaio\CalculoRaio\obj\Debug\net8.0\CalculoRaio.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoRaio\CalculoRaio\obj\Debug\net8.0\CalculoRaio.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoRaio\CalculoRaio\obj\Debug\net8.0\CalculoRaio.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoRaio\CalculoRaio\obj\Debug\net8.0\CalculoRaio.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoRaio\CalculoRaio\obj\Debug\net8.0\refint\CalculoRaio.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoRaio\CalculoRaio\obj\Debug\net8.0\CalculoRaio.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoRaio\CalculoRaio\obj\Debug\net8.0\CalculoRaio.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\CalculoRaio\CalculoRaio\obj\Debug\net8.0\ref\CalculoRaio.dll
