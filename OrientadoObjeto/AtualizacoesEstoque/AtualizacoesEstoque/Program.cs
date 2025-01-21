@@ -8,11 +8,11 @@ namespace AtualizacoesEstoque
         {
             Produto produto = new Produto("TV", 500.00, 10);
 
-            produto.SetNome("TV 4K");
+            produto.Nome = ("");
 
-            Console.WriteLine(produto.GetNome());
-            Console.WriteLine(produto.GetPreco());
-            Console.WriteLine(produto.GetQuantidade());
+            Console.WriteLine(produto.Nome);
+            Console.WriteLine(produto.Preco);
+            Console.WriteLine(produto.Quantidade);
         }
     }
 }
