@@ -13,11 +13,7 @@ namespace AtualizacoesEstoque
             Console.Write("Preço: ");
             double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.Write("Quantidade no Estoque: ");
-            int quantidade = int.Parse(Console.ReadLine());
-
-
-            Produto p = new Produto(nome, preco, quantidade);
+            Produto p = new Produto(nome, preco);
 
             Console.WriteLine();
             Console.WriteLine("Dados do Produto: " + p);

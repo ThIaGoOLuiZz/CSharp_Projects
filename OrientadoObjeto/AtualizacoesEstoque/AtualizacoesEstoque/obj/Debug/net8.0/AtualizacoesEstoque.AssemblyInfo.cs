@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtualizacoesEstoque")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7be0b2bfb81640d6ea861357df864db89f950079")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+034279c6f9ea1f699330282051c4fc235b65dbeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtualizacoesEstoque")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtualizacoesEstoque")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_Projects\\Classes\\AtualizacoesEstoque\\AtualizacoesEstoque\\AtualizacoesEstoque.csproj",
+      "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_Projects\\OrientadoObjeto\\AtualizacoesEstoque\\AtualizacoesEstoque\\AtualizacoesEstoque.csproj",
       "projectName": "AtualizacoesEstoque",
-      "projectPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_Projects\\Classes\\AtualizacoesEstoque\\AtualizacoesEstoque\\AtualizacoesEstoque.csproj",
+      "projectPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_Projects\\OrientadoObjeto\\AtualizacoesEstoque\\AtualizacoesEstoque\\AtualizacoesEstoque.csproj",
       "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_Projects\\Classes\\AtualizacoesEstoque\\AtualizacoesEstoque\\obj\\",
+      "outputPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_Projects\\OrientadoObjeto\\AtualizacoesEstoque\\AtualizacoesEstoque\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
