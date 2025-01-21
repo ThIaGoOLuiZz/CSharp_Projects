@@ -13,3 +13,18 @@ C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\ContaBancaria\
 C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ContaBancaria.pdb
 C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ContaBancaria.genruntimeconfig.cache
 C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Classes\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ref\ContaBancaria.dll
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\ContaBancaria\ContaBancaria\bin\Debug\net8.0\ContaBancaria.exe
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\ContaBancaria\ContaBancaria\bin\Debug\net8.0\ContaBancaria.deps.json
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\ContaBancaria\ContaBancaria\bin\Debug\net8.0\ContaBancaria.runtimeconfig.json
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\ContaBancaria\ContaBancaria\bin\Debug\net8.0\ContaBancaria.dll
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\ContaBancaria\ContaBancaria\bin\Debug\net8.0\ContaBancaria.pdb
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ContaBancaria.AssemblyInfo.cs
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ContaBancaria.sourcelink.json
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ContaBancaria.dll
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\ContaBancaria\ContaBancaria\obj\Debug\net8.0\refint\ContaBancaria.dll
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ContaBancaria.pdb
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ContaBancaria.genruntimeconfig.cache
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ref\ContaBancaria.dll

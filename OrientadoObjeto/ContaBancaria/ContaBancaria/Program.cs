@@ -43,6 +43,7 @@ namespace ContaBancaria
                 conta = new ContaBancaria(numeroConta, nome);
             }
 
+            Console.WriteLine();
             Console.WriteLine("Conta Criada com sucesso! Dados da conta: ");
             Console.WriteLine($"Conta {conta.NumeroConta}, Titular: {conta.Nome}, Saldo: $ {conta.Valor}");
 
@@ -58,24 +59,40 @@ namespace ContaBancaria
                     if (vlEscolha != 1 && vlEscolha != 2 && vlEscolha != 3)
                     {
                         Console.WriteLine("Selecione apenas 1, 2 ou 3!");
+                        break;
                     }
+                    stValidacao = true;
                 }
 
                 switch (vlEscolha)
                 {
                     case 1:
                         Console.Write("Digite o valor para Depósito: ");
-                        double valorDeposito = int.Parse(Console.ReadLine());
+                        double valorDeposito = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                        Console.WriteLine();
 
                         conta.DepositoBancario(valorDeposito);
+
+                        Console.WriteLine("Conta Atualizada com sucesso! Dados atualizados: ");
+                        Console.WriteLine($"Conta {conta.NumeroConta}, Titular: {conta.Nome}, Saldo: $ {conta.Valor.ToString("F2")}");
+                        Console.WriteLine();
+
                         break;
 
                     case 2:
+                        Console.WriteLine();
                         Console.Write("Digite o valor para Saque: ");
-                        double valorSaque = int.Parse(Console.ReadLine());
+                        double valorSaque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
                         conta.SaqueBancario(valorSaque);
+
+                        Console.WriteLine();
+                        Console.WriteLine("Conta Atualizada com sucesso! Dados atualizados: ");
+                        Console.WriteLine($"Conta {conta.NumeroConta}, Titular: {conta.Nome}, Saldo: $ {conta.Valor.ToString("F2")}");
+                        Console.WriteLine();
+
                         break;
+
                     case 3:
                         vlEscolha = 0;
                         break;

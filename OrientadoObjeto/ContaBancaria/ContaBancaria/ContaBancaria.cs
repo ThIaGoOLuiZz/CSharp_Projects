@@ -31,7 +31,7 @@ namespace ContaBancaria
 
         public void SaqueBancario (double valor)
         {
-            Valor -= valor - 5.0;
+            Valor -= (valor + 5.0);
         }
     }
 }
