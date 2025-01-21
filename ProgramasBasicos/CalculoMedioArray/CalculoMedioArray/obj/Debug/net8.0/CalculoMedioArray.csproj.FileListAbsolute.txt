@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\CalculoMedioArray\CalculoMedioArray\bin\Debug\net8.0\CalculoMedioArray.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\CalculoMedioArray\CalculoMedioArray\bin\Debug\net8.0\CalculoMedioArray.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\CalculoMedioArray\CalculoMedioArray\bin\Debug\net8.0\CalculoMedioArray.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\CalculoMedioArray\CalculoMedioArray\bin\Debug\net8.0\CalculoMedioArray.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\CalculoMedioArray\CalculoMedioArray\bin\Debug\net8.0\CalculoMedioArray.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\CalculoMedioArray\CalculoMedioArray\obj\Debug\net8.0\CalculoMedioArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\CalculoMedioArray\CalculoMedioArray\obj\Debug\net8.0\CalculoMedioArray.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\CalculoMedioArray\CalculoMedioArray\obj\Debug\net8.0\CalculoMedioArray.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\CalculoMedioArray\CalculoMedioArray\obj\Debug\net8.0\CalculoMedioArray.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\CalculoMedioArray\CalculoMedioArray\obj\Debug\net8.0\CalculoMedioArray.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\CalculoMedioArray\CalculoMedioArray\obj\Debug\net8.0\CalculoMedioArray.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\CalculoMedioArray\CalculoMedioArray\obj\Debug\net8.0\refint\CalculoMedioArray.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\CalculoMedioArray\CalculoMedioArray\obj\Debug\net8.0\CalculoMedioArray.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\CalculoMedioArray\CalculoMedioArray\obj\Debug\net8.0\CalculoMedioArray.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\CalculoMedioArray\CalculoMedioArray\obj\Debug\net8.0\ref\CalculoMedioArray.dll
