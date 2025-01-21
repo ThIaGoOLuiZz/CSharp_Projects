@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoValoresProdutos\CalculoValoresProdutos\bin\Debug\net8.0\CalculoValoresProdutos.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoValoresProdutos\CalculoValoresProdutos\bin\Debug\net8.0\CalculoValoresProdutos.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoValoresProdutos\CalculoValoresProdutos\bin\Debug\net8.0\CalculoValoresProdutos.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoValoresProdutos\CalculoValoresProdutos\bin\Debug\net8.0\CalculoValoresProdutos.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoValoresProdutos\CalculoValoresProdutos\bin\Debug\net8.0\CalculoValoresProdutos.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoValoresProdutos\CalculoValoresProdutos\obj\Debug\net8.0\CalculoValoresProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoValoresProdutos\CalculoValoresProdutos\obj\Debug\net8.0\CalculoValoresProdutos.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoValoresProdutos\CalculoValoresProdutos\obj\Debug\net8.0\CalculoValoresProdutos.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoValoresProdutos\CalculoValoresProdutos\obj\Debug\net8.0\CalculoValoresProdutos.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoValoresProdutos\CalculoValoresProdutos\obj\Debug\net8.0\CalculoValoresProdutos.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoValoresProdutos\CalculoValoresProdutos\obj\Debug\net8.0\CalculoValoresProdutos.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoValoresProdutos\CalculoValoresProdutos\obj\Debug\net8.0\refint\CalculoValoresProdutos.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoValoresProdutos\CalculoValoresProdutos\obj\Debug\net8.0\CalculoValoresProdutos.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoValoresProdutos\CalculoValoresProdutos\obj\Debug\net8.0\CalculoValoresProdutos.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoValoresProdutos\CalculoValoresProdutos\obj\Debug\net8.0\ref\CalculoValoresProdutos.dll
