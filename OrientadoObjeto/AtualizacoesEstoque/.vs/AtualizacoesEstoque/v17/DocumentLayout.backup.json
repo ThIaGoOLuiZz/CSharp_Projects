@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\AtualizacoesEstoque\\AtualizacoesEstoque\\Produto.cs",
-              "RelativeDocumentMoniker": "AtualizacoesEstoque\\Produto.cs",
-              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\AtualizacoesEstoque\\AtualizacoesEstoque\\Produto.cs",
-              "RelativeToolTip": "AtualizacoesEstoque\\Produto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T18:17:11.935Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -41,9 +28,22 @@
               "RelativeDocumentMoniker": "AtualizacoesEstoque\\Program.cs",
               "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\AtualizacoesEstoque\\AtualizacoesEstoque\\Program.cs",
               "RelativeToolTip": "AtualizacoesEstoque\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T18:16:59.938Z",
+              "WhenOpened": "2025-01-21T02:08:35.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\AtualizacoesEstoque\\AtualizacoesEstoque\\Produto.cs",
+              "RelativeDocumentMoniker": "AtualizacoesEstoque\\Produto.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\AtualizacoesEstoque\\AtualizacoesEstoque\\Produto.cs",
+              "RelativeToolTip": "AtualizacoesEstoque\\Produto.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T02:08:34.591Z",
               "EditorCaption": ""
             }
           ]
