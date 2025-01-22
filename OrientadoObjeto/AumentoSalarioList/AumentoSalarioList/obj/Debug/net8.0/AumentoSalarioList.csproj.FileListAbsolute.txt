@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AumentoSalarioList\AumentoSalarioList\bin\Debug\net8.0\AumentoSalarioList.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AumentoSalarioList\AumentoSalarioList\bin\Debug\net8.0\AumentoSalarioList.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AumentoSalarioList\AumentoSalarioList\bin\Debug\net8.0\AumentoSalarioList.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AumentoSalarioList\AumentoSalarioList\bin\Debug\net8.0\AumentoSalarioList.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AumentoSalarioList\AumentoSalarioList\bin\Debug\net8.0\AumentoSalarioList.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AumentoSalarioList\AumentoSalarioList\obj\Debug\net8.0\AumentoSalarioList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AumentoSalarioList\AumentoSalarioList\obj\Debug\net8.0\AumentoSalarioList.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AumentoSalarioList\AumentoSalarioList\obj\Debug\net8.0\AumentoSalarioList.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AumentoSalarioList\AumentoSalarioList\obj\Debug\net8.0\AumentoSalarioList.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AumentoSalarioList\AumentoSalarioList\obj\Debug\net8.0\AumentoSalarioList.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AumentoSalarioList\AumentoSalarioList\obj\Debug\net8.0\AumentoSalarioList.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AumentoSalarioList\AumentoSalarioList\obj\Debug\net8.0\refint\AumentoSalarioList.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AumentoSalarioList\AumentoSalarioList\obj\Debug\net8.0\AumentoSalarioList.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AumentoSalarioList\AumentoSalarioList\obj\Debug\net8.0\AumentoSalarioList.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AumentoSalarioList\AumentoSalarioList\obj\Debug\net8.0\ref\AumentoSalarioList.dll
