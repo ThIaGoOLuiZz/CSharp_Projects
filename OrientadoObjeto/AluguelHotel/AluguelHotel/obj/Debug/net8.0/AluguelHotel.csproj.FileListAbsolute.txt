@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AluguelHotel\AluguelHotel\bin\Debug\net8.0\AluguelHotel.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AluguelHotel\AluguelHotel\bin\Debug\net8.0\AluguelHotel.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AluguelHotel\AluguelHotel\bin\Debug\net8.0\AluguelHotel.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AluguelHotel\AluguelHotel\bin\Debug\net8.0\AluguelHotel.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AluguelHotel\AluguelHotel\bin\Debug\net8.0\AluguelHotel.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AluguelHotel\AluguelHotel\obj\Debug\net8.0\AluguelHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AluguelHotel\AluguelHotel\obj\Debug\net8.0\AluguelHotel.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AluguelHotel\AluguelHotel\obj\Debug\net8.0\AluguelHotel.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AluguelHotel\AluguelHotel\obj\Debug\net8.0\AluguelHotel.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AluguelHotel\AluguelHotel\obj\Debug\net8.0\AluguelHotel.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AluguelHotel\AluguelHotel\obj\Debug\net8.0\AluguelHotel.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AluguelHotel\AluguelHotel\obj\Debug\net8.0\refint\AluguelHotel.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AluguelHotel\AluguelHotel\obj\Debug\net8.0\AluguelHotel.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AluguelHotel\AluguelHotel\obj\Debug\net8.0\AluguelHotel.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\AluguelHotel\AluguelHotel\obj\Debug\net8.0\ref\AluguelHotel.dll
