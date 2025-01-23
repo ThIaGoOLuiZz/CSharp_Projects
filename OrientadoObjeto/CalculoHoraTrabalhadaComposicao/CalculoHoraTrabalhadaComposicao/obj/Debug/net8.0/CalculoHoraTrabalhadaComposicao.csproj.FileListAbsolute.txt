@@ -1,0 +1,14 @@
+C:\Users\thiago.gon\Desktop\Aprendizado C#\CalculoHoraTrabalhadaComposicao\CalculoHoraTrabalhadaComposicao\bin\Debug\net8.0\CalculoHoraTrabalhadaComposicao.exe
+C:\Users\thiago.gon\Desktop\Aprendizado C#\CalculoHoraTrabalhadaComposicao\CalculoHoraTrabalhadaComposicao\bin\Debug\net8.0\CalculoHoraTrabalhadaComposicao.deps.json
+C:\Users\thiago.gon\Desktop\Aprendizado C#\CalculoHoraTrabalhadaComposicao\CalculoHoraTrabalhadaComposicao\bin\Debug\net8.0\CalculoHoraTrabalhadaComposicao.runtimeconfig.json
+C:\Users\thiago.gon\Desktop\Aprendizado C#\CalculoHoraTrabalhadaComposicao\CalculoHoraTrabalhadaComposicao\bin\Debug\net8.0\CalculoHoraTrabalhadaComposicao.dll
+C:\Users\thiago.gon\Desktop\Aprendizado C#\CalculoHoraTrabalhadaComposicao\CalculoHoraTrabalhadaComposicao\bin\Debug\net8.0\CalculoHoraTrabalhadaComposicao.pdb
+C:\Users\thiago.gon\Desktop\Aprendizado C#\CalculoHoraTrabalhadaComposicao\CalculoHoraTrabalhadaComposicao\obj\Debug\net8.0\CalculoHoraTrabalhadaComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.gon\Desktop\Aprendizado C#\CalculoHoraTrabalhadaComposicao\CalculoHoraTrabalhadaComposicao\obj\Debug\net8.0\CalculoHoraTrabalhadaComposicao.AssemblyInfoInputs.cache
+C:\Users\thiago.gon\Desktop\Aprendizado C#\CalculoHoraTrabalhadaComposicao\CalculoHoraTrabalhadaComposicao\obj\Debug\net8.0\CalculoHoraTrabalhadaComposicao.AssemblyInfo.cs
+C:\Users\thiago.gon\Desktop\Aprendizado C#\CalculoHoraTrabalhadaComposicao\CalculoHoraTrabalhadaComposicao\obj\Debug\net8.0\CalculoHoraTrabalhadaComposicao.csproj.CoreCompileInputs.cache
+C:\Users\thiago.gon\Desktop\Aprendizado C#\CalculoHoraTrabalhadaComposicao\CalculoHoraTrabalhadaComposicao\obj\Debug\net8.0\CalculoHoraTrabalhadaComposicao.dll
+C:\Users\thiago.gon\Desktop\Aprendizado C#\CalculoHoraTrabalhadaComposicao\CalculoHoraTrabalhadaComposicao\obj\Debug\net8.0\refint\CalculoHoraTrabalhadaComposicao.dll
+C:\Users\thiago.gon\Desktop\Aprendizado C#\CalculoHoraTrabalhadaComposicao\CalculoHoraTrabalhadaComposicao\obj\Debug\net8.0\CalculoHoraTrabalhadaComposicao.pdb
+C:\Users\thiago.gon\Desktop\Aprendizado C#\CalculoHoraTrabalhadaComposicao\CalculoHoraTrabalhadaComposicao\obj\Debug\net8.0\CalculoHoraTrabalhadaComposicao.genruntimeconfig.cache
+C:\Users\thiago.gon\Desktop\Aprendizado C#\CalculoHoraTrabalhadaComposicao\CalculoHoraTrabalhadaComposicao\obj\Debug\net8.0\ref\CalculoHoraTrabalhadaComposicao.dll
