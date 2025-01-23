@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\PostsComposicao\PostsComposicao\bin\Debug\net8.0\PostsComposicao.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\PostsComposicao\PostsComposicao\bin\Debug\net8.0\PostsComposicao.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\PostsComposicao\PostsComposicao\bin\Debug\net8.0\PostsComposicao.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\PostsComposicao\PostsComposicao\bin\Debug\net8.0\PostsComposicao.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\PostsComposicao\PostsComposicao\bin\Debug\net8.0\PostsComposicao.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\PostsComposicao\PostsComposicao\obj\Debug\net8.0\PostsComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\PostsComposicao\PostsComposicao\obj\Debug\net8.0\PostsComposicao.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\PostsComposicao\PostsComposicao\obj\Debug\net8.0\PostsComposicao.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\PostsComposicao\PostsComposicao\obj\Debug\net8.0\PostsComposicao.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\PostsComposicao\PostsComposicao\obj\Debug\net8.0\PostsComposicao.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\PostsComposicao\PostsComposicao\obj\Debug\net8.0\PostsComposicao.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\PostsComposicao\PostsComposicao\obj\Debug\net8.0\refint\PostsComposicao.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\PostsComposicao\PostsComposicao\obj\Debug\net8.0\PostsComposicao.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\PostsComposicao\PostsComposicao\obj\Debug\net8.0\PostsComposicao.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\PostsComposicao\PostsComposicao\obj\Debug\net8.0\ref\PostsComposicao.dll
