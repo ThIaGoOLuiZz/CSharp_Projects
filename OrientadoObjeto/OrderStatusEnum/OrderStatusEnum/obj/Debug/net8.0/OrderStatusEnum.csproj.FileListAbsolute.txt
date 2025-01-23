@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrderStatusEnum\OrderStatusEnum\bin\Debug\net8.0\OrderStatusEnum.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrderStatusEnum\OrderStatusEnum\bin\Debug\net8.0\OrderStatusEnum.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrderStatusEnum\OrderStatusEnum\bin\Debug\net8.0\OrderStatusEnum.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrderStatusEnum\OrderStatusEnum\bin\Debug\net8.0\OrderStatusEnum.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrderStatusEnum\OrderStatusEnum\bin\Debug\net8.0\OrderStatusEnum.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrderStatusEnum\OrderStatusEnum\obj\Debug\net8.0\OrderStatusEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrderStatusEnum\OrderStatusEnum\obj\Debug\net8.0\OrderStatusEnum.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrderStatusEnum\OrderStatusEnum\obj\Debug\net8.0\OrderStatusEnum.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrderStatusEnum\OrderStatusEnum\obj\Debug\net8.0\OrderStatusEnum.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrderStatusEnum\OrderStatusEnum\obj\Debug\net8.0\OrderStatusEnum.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrderStatusEnum\OrderStatusEnum\obj\Debug\net8.0\OrderStatusEnum.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrderStatusEnum\OrderStatusEnum\obj\Debug\net8.0\refint\OrderStatusEnum.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrderStatusEnum\OrderStatusEnum\obj\Debug\net8.0\OrderStatusEnum.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrderStatusEnum\OrderStatusEnum\obj\Debug\net8.0\OrderStatusEnum.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrderStatusEnum\OrderStatusEnum\obj\Debug\net8.0\ref\OrderStatusEnum.dll
