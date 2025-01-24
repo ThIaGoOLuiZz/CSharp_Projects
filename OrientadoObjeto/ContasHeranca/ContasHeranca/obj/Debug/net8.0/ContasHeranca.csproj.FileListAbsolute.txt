@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContasHeranca\ContasHeranca\bin\Debug\net8.0\ContasHeranca.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContasHeranca\ContasHeranca\bin\Debug\net8.0\ContasHeranca.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContasHeranca\ContasHeranca\bin\Debug\net8.0\ContasHeranca.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContasHeranca\ContasHeranca\bin\Debug\net8.0\ContasHeranca.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContasHeranca\ContasHeranca\bin\Debug\net8.0\ContasHeranca.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContasHeranca\ContasHeranca\obj\Debug\net8.0\ContasHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContasHeranca\ContasHeranca\obj\Debug\net8.0\ContasHeranca.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContasHeranca\ContasHeranca\obj\Debug\net8.0\ContasHeranca.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContasHeranca\ContasHeranca\obj\Debug\net8.0\ContasHeranca.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContasHeranca\ContasHeranca\obj\Debug\net8.0\ContasHeranca.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContasHeranca\ContasHeranca\obj\Debug\net8.0\ContasHeranca.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContasHeranca\ContasHeranca\obj\Debug\net8.0\refint\ContasHeranca.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContasHeranca\ContasHeranca\obj\Debug\net8.0\ContasHeranca.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContasHeranca\ContasHeranca\obj\Debug\net8.0\ContasHeranca.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContasHeranca\ContasHeranca\obj\Debug\net8.0\ref\ContasHeranca.dll
