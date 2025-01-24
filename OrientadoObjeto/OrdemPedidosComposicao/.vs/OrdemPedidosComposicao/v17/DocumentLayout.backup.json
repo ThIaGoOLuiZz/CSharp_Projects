@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\OrdemPedidosComposicao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAEC9FC-F45A-4020-AC98-8AA8760C4A27}|OrdemPedidosComposicao\\OrdemPedidosComposicao.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\ordempedidoscomposicao\\ordempedidoscomposicao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAEC9FC-F45A-4020-AC98-8AA8760C4A27}|OrdemPedidosComposicao\\OrdemPedidosComposicao.csproj|solutionrelative:ordempedidoscomposicao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAEC9FC-F45A-4020-AC98-8AA8760C4A27}|OrdemPedidosComposicao\\OrdemPedidosComposicao.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\ordempedidoscomposicao\\ordempedidoscomposicao\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAEC9FC-F45A-4020-AC98-8AA8760C4A27}|OrdemPedidosComposicao\\OrdemPedidosComposicao.csproj|solutionrelative:ordempedidoscomposicao\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAEC9FC-F45A-4020-AC98-8AA8760C4A27}|OrdemPedidosComposicao\\OrdemPedidosComposicao.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\ordempedidoscomposicao\\ordempedidoscomposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAEC9FC-F45A-4020-AC98-8AA8760C4A27}|OrdemPedidosComposicao\\OrdemPedidosComposicao.csproj|solutionrelative:ordempedidoscomposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAEC9FC-F45A-4020-AC98-8AA8760C4A27}|OrdemPedidosComposicao\\OrdemPedidosComposicao.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\ordempedidoscomposicao\\ordempedidoscomposicao\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAEC9FC-F45A-4020-AC98-8AA8760C4A27}|OrdemPedidosComposicao\\OrdemPedidosComposicao.csproj|solutionrelative:ordempedidoscomposicao\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\OrdemPedidosComposicao\\OrdemPedidosComposicao\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "OrdemPedidosComposicao\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\OrdemPedidosComposicao\\OrdemPedidosComposicao\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "OrdemPedidosComposicao\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T00:10:42.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\OrdemPedidosComposicao\\OrdemPedidosComposicao\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "OrdemPedidosComposicao\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\OrdemPedidosComposicao\\OrdemPedidosComposicao\\Entities\\Client.cs",
+              "RelativeToolTip": "OrdemPedidosComposicao\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:56:56.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\OrdemPedidosComposicao\\OrdemPedidosComposicao\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "OrdemPedidosComposicao\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\OrdemPedidosComposicao\\OrdemPedidosComposicao\\Entities\\Order.cs",
+              "RelativeToolTip": "OrdemPedidosComposicao\\Entities\\Order.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwEUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:28:53.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\OrdemPedidosComposicao\\OrdemPedidosComposicao\\Program.cs",
+              "RelativeDocumentMoniker": "OrdemPedidosComposicao\\Program.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\OrdemPedidosComposicao\\OrdemPedidosComposicao\\Program.cs",
+              "RelativeToolTip": "OrdemPedidosComposicao\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:03:51.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

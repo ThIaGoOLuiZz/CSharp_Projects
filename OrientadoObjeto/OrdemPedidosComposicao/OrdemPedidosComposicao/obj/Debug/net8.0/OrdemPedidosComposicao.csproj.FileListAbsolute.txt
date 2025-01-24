@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrdemPedidosComposicao\OrdemPedidosComposicao\bin\Debug\net8.0\OrdemPedidosComposicao.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrdemPedidosComposicao\OrdemPedidosComposicao\bin\Debug\net8.0\OrdemPedidosComposicao.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrdemPedidosComposicao\OrdemPedidosComposicao\bin\Debug\net8.0\OrdemPedidosComposicao.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrdemPedidosComposicao\OrdemPedidosComposicao\bin\Debug\net8.0\OrdemPedidosComposicao.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrdemPedidosComposicao\OrdemPedidosComposicao\bin\Debug\net8.0\OrdemPedidosComposicao.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrdemPedidosComposicao\OrdemPedidosComposicao\obj\Debug\net8.0\OrdemPedidosComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrdemPedidosComposicao\OrdemPedidosComposicao\obj\Debug\net8.0\OrdemPedidosComposicao.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrdemPedidosComposicao\OrdemPedidosComposicao\obj\Debug\net8.0\OrdemPedidosComposicao.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrdemPedidosComposicao\OrdemPedidosComposicao\obj\Debug\net8.0\OrdemPedidosComposicao.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrdemPedidosComposicao\OrdemPedidosComposicao\obj\Debug\net8.0\OrdemPedidosComposicao.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrdemPedidosComposicao\OrdemPedidosComposicao\obj\Debug\net8.0\OrdemPedidosComposicao.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrdemPedidosComposicao\OrdemPedidosComposicao\obj\Debug\net8.0\refint\OrdemPedidosComposicao.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrdemPedidosComposicao\OrdemPedidosComposicao\obj\Debug\net8.0\OrdemPedidosComposicao.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrdemPedidosComposicao\OrdemPedidosComposicao\obj\Debug\net8.0\OrdemPedidosComposicao.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\OrdemPedidosComposicao\OrdemPedidosComposicao\obj\Debug\net8.0\ref\OrdemPedidosComposicao.dll
