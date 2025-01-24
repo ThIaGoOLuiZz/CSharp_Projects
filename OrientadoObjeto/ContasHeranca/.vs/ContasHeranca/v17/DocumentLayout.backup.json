@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A05EB277-7D7E-4F34-ABAC-D1B21A6DF977}|ContasHeranca\\ContasHeranca.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\contasheranca\\contasheranca\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A05EB277-7D7E-4F34-ABAC-D1B21A6DF977}|ContasHeranca\\ContasHeranca.csproj|solutionrelative:contasheranca\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05EB277-7D7E-4F34-ABAC-D1B21A6DF977}|ContasHeranca\\ContasHeranca.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\contasheranca\\contasheranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05EB277-7D7E-4F34-ABAC-D1B21A6DF977}|ContasHeranca\\ContasHeranca.csproj|solutionrelative:contasheranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\ContasHeranca\\ContasHeranca\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "ContasHeranca\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\ContasHeranca\\ContasHeranca\\Entities\\Account.cs",
+              "RelativeToolTip": "ContasHeranca\\Entities\\Account.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T02:11:33.377Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "ContasHeranca\\Entities\\SavingsAccount.cs",
               "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\ContasHeranca\\ContasHeranca\\Entities\\SavingsAccount.cs",
               "RelativeToolTip": "ContasHeranca\\Entities\\SavingsAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T01:52:09.045Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "ContasHeranca\\Program.cs",
               "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\ContasHeranca\\ContasHeranca\\Program.cs",
               "RelativeToolTip": "ContasHeranca\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T01:48:29.212Z",
               "EditorCaption": ""
