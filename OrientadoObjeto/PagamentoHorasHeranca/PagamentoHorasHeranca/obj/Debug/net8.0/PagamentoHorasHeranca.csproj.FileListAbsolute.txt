@@ -1,0 +1,15 @@
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\PagamentoHorasHeranca\PagamentoHorasHeranca\obj\Debug\net8.0\PagamentoHorasHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\PagamentoHorasHeranca\PagamentoHorasHeranca\obj\Debug\net8.0\PagamentoHorasHeranca.AssemblyInfoInputs.cache
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\PagamentoHorasHeranca\PagamentoHorasHeranca\obj\Debug\net8.0\PagamentoHorasHeranca.AssemblyInfo.cs
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\PagamentoHorasHeranca\PagamentoHorasHeranca\obj\Debug\net8.0\PagamentoHorasHeranca.csproj.CoreCompileInputs.cache
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\PagamentoHorasHeranca\PagamentoHorasHeranca\obj\Debug\net8.0\PagamentoHorasHeranca.sourcelink.json
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\PagamentoHorasHeranca\PagamentoHorasHeranca\bin\Debug\net8.0\PagamentoHorasHeranca.exe
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\PagamentoHorasHeranca\PagamentoHorasHeranca\bin\Debug\net8.0\PagamentoHorasHeranca.deps.json
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\PagamentoHorasHeranca\PagamentoHorasHeranca\bin\Debug\net8.0\PagamentoHorasHeranca.runtimeconfig.json
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\PagamentoHorasHeranca\PagamentoHorasHeranca\bin\Debug\net8.0\PagamentoHorasHeranca.dll
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\PagamentoHorasHeranca\PagamentoHorasHeranca\bin\Debug\net8.0\PagamentoHorasHeranca.pdb
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\PagamentoHorasHeranca\PagamentoHorasHeranca\obj\Debug\net8.0\PagamentoHorasHeranca.dll
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\PagamentoHorasHeranca\PagamentoHorasHeranca\obj\Debug\net8.0\refint\PagamentoHorasHeranca.dll
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\PagamentoHorasHeranca\PagamentoHorasHeranca\obj\Debug\net8.0\PagamentoHorasHeranca.pdb
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\PagamentoHorasHeranca\PagamentoHorasHeranca\obj\Debug\net8.0\PagamentoHorasHeranca.genruntimeconfig.cache
+C:\Users\thiago.gon\Desktop\CSharp_Projects\OrientadoObjeto\PagamentoHorasHeranca\PagamentoHorasHeranca\obj\Debug\net8.0\ref\PagamentoHorasHeranca.dll
