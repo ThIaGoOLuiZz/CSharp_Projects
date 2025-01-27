@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoLocadoraInterface\CalculoLocadoraInterface\obj\Debug\net9.0\CalculoLocadoraInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoLocadoraInterface\CalculoLocadoraInterface\obj\Debug\net9.0\CalculoLocadoraInterface.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoLocadoraInterface\CalculoLocadoraInterface\obj\Debug\net9.0\CalculoLocadoraInterface.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoLocadoraInterface\CalculoLocadoraInterface\obj\Debug\net9.0\CalculoLocadoraInterface.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoLocadoraInterface\CalculoLocadoraInterface\obj\Debug\net9.0\CalculoLocadoraInterface.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoLocadoraInterface\CalculoLocadoraInterface\bin\Debug\net9.0\CalculoLocadoraInterface.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoLocadoraInterface\CalculoLocadoraInterface\bin\Debug\net9.0\CalculoLocadoraInterface.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoLocadoraInterface\CalculoLocadoraInterface\bin\Debug\net9.0\CalculoLocadoraInterface.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoLocadoraInterface\CalculoLocadoraInterface\bin\Debug\net9.0\CalculoLocadoraInterface.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoLocadoraInterface\CalculoLocadoraInterface\bin\Debug\net9.0\CalculoLocadoraInterface.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoLocadoraInterface\CalculoLocadoraInterface\obj\Debug\net9.0\CalculoLocadoraInterface.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoLocadoraInterface\CalculoLocadoraInterface\obj\Debug\net9.0\refint\CalculoLocadoraInterface.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoLocadoraInterface\CalculoLocadoraInterface\obj\Debug\net9.0\CalculoLocadoraInterface.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoLocadoraInterface\CalculoLocadoraInterface\obj\Debug\net9.0\CalculoLocadoraInterface.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoLocadoraInterface\CalculoLocadoraInterface\obj\Debug\net9.0\ref\CalculoLocadoraInterface.dll

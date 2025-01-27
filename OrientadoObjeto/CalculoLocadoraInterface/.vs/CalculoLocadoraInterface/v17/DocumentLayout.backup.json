@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\CalculoLocadoraInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2451AC7A-EED4-4496-B607-A299C132012E}|CalculoLocadoraInterface\\CalculoLocadoraInterface.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\calculolocadorainterface\\calculolocadorainterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451AC7A-EED4-4496-B607-A299C132012E}|CalculoLocadoraInterface\\CalculoLocadoraInterface.csproj|solutionrelative:calculolocadorainterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451AC7A-EED4-4496-B607-A299C132012E}|CalculoLocadoraInterface\\CalculoLocadoraInterface.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\calculolocadorainterface\\calculolocadorainterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451AC7A-EED4-4496-B607-A299C132012E}|CalculoLocadoraInterface\\CalculoLocadoraInterface.csproj|solutionrelative:calculolocadorainterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451AC7A-EED4-4496-B607-A299C132012E}|CalculoLocadoraInterface\\CalculoLocadoraInterface.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\calculolocadorainterface\\calculolocadorainterface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451AC7A-EED4-4496-B607-A299C132012E}|CalculoLocadoraInterface\\CalculoLocadoraInterface.csproj|solutionrelative:calculolocadorainterface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451AC7A-EED4-4496-B607-A299C132012E}|CalculoLocadoraInterface\\CalculoLocadoraInterface.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\calculolocadorainterface\\calculolocadorainterface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451AC7A-EED4-4496-B607-A299C132012E}|CalculoLocadoraInterface\\CalculoLocadoraInterface.csproj|solutionrelative:calculolocadorainterface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451AC7A-EED4-4496-B607-A299C132012E}|CalculoLocadoraInterface\\CalculoLocadoraInterface.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\calculolocadorainterface\\calculolocadorainterface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451AC7A-EED4-4496-B607-A299C132012E}|CalculoLocadoraInterface\\CalculoLocadoraInterface.csproj|solutionrelative:calculolocadorainterface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451AC7A-EED4-4496-B607-A299C132012E}|CalculoLocadoraInterface\\CalculoLocadoraInterface.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\calculolocadorainterface\\calculolocadorainterface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451AC7A-EED4-4496-B607-A299C132012E}|CalculoLocadoraInterface\\CalculoLocadoraInterface.csproj|solutionrelative:calculolocadorainterface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\CalculoLocadoraInterface\\CalculoLocadoraInterface\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "CalculoLocadoraInterface\\Services\\RentalService.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\CalculoLocadoraInterface\\CalculoLocadoraInterface\\Services\\RentalService.cs",
+              "RelativeToolTip": "CalculoLocadoraInterface\\Services\\RentalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T23:09:26.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrazilTaxService.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\CalculoLocadoraInterface\\CalculoLocadoraInterface\\Services\\BrazilTaxService.cs",
+              "RelativeDocumentMoniker": "CalculoLocadoraInterface\\Services\\BrazilTaxService.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\CalculoLocadoraInterface\\CalculoLocadoraInterface\\Services\\BrazilTaxService.cs",
+              "RelativeToolTip": "CalculoLocadoraInterface\\Services\\BrazilTaxService.cs",
+              "ViewState": "AgIAAAAAAACAwRZswdYhwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T23:07:49.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\CalculoLocadoraInterface\\CalculoLocadoraInterface\\Entities\\CarRental.cs",
+              "RelativeDocumentMoniker": "CalculoLocadoraInterface\\Entities\\CarRental.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\CalculoLocadoraInterface\\CalculoLocadoraInterface\\Entities\\CarRental.cs",
+              "RelativeToolTip": "CalculoLocadoraInterface\\Entities\\CarRental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T23:00:40.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\CalculoLocadoraInterface\\CalculoLocadoraInterface\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "CalculoLocadoraInterface\\Entities\\Invoice.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\CalculoLocadoraInterface\\CalculoLocadoraInterface\\Entities\\Invoice.cs",
+              "RelativeToolTip": "CalculoLocadoraInterface\\Entities\\Invoice.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAvwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:54:53.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\CalculoLocadoraInterface\\CalculoLocadoraInterface\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "CalculoLocadoraInterface\\Entities\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\CalculoLocadoraInterface\\CalculoLocadoraInterface\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "CalculoLocadoraInterface\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:53:51.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\CalculoLocadoraInterface\\CalculoLocadoraInterface\\Program.cs",
+              "RelativeDocumentMoniker": "CalculoLocadoraInterface\\Program.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\CalculoLocadoraInterface\\CalculoLocadoraInterface\\Program.cs",
+              "RelativeToolTip": "CalculoLocadoraInterface\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:44:24.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
