@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoFigurasAbstractMethods\CalculoFigurasAbstractMethods\obj\Debug\net8.0\CalculoFigurasAbstractMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoFigurasAbstractMethods\CalculoFigurasAbstractMethods\obj\Debug\net8.0\CalculoFigurasAbstractMethods.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoFigurasAbstractMethods\CalculoFigurasAbstractMethods\obj\Debug\net8.0\CalculoFigurasAbstractMethods.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoFigurasAbstractMethods\CalculoFigurasAbstractMethods\obj\Debug\net8.0\CalculoFigurasAbstractMethods.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoFigurasAbstractMethods\CalculoFigurasAbstractMethods\obj\Debug\net8.0\CalculoFigurasAbstractMethods.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoFigurasAbstractMethods\CalculoFigurasAbstractMethods\bin\Debug\net8.0\CalculoFigurasAbstractMethods.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoFigurasAbstractMethods\CalculoFigurasAbstractMethods\bin\Debug\net8.0\CalculoFigurasAbstractMethods.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoFigurasAbstractMethods\CalculoFigurasAbstractMethods\bin\Debug\net8.0\CalculoFigurasAbstractMethods.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoFigurasAbstractMethods\CalculoFigurasAbstractMethods\bin\Debug\net8.0\CalculoFigurasAbstractMethods.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoFigurasAbstractMethods\CalculoFigurasAbstractMethods\bin\Debug\net8.0\CalculoFigurasAbstractMethods.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoFigurasAbstractMethods\CalculoFigurasAbstractMethods\obj\Debug\net8.0\CalculoFigurasAbstractMethods.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoFigurasAbstractMethods\CalculoFigurasAbstractMethods\obj\Debug\net8.0\refint\CalculoFigurasAbstractMethods.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoFigurasAbstractMethods\CalculoFigurasAbstractMethods\obj\Debug\net8.0\CalculoFigurasAbstractMethods.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoFigurasAbstractMethods\CalculoFigurasAbstractMethods\obj\Debug\net8.0\CalculoFigurasAbstractMethods.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\CalculoFigurasAbstractMethods\CalculoFigurasAbstractMethods\obj\Debug\net8.0\ref\CalculoFigurasAbstractMethods.dll
