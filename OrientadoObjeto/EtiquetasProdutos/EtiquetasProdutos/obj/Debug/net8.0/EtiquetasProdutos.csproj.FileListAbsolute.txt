@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\EtiquetasProdutos\EtiquetasProdutos\bin\Debug\net8.0\EtiquetasProdutos.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\EtiquetasProdutos\EtiquetasProdutos\bin\Debug\net8.0\EtiquetasProdutos.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\EtiquetasProdutos\EtiquetasProdutos\bin\Debug\net8.0\EtiquetasProdutos.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\EtiquetasProdutos\EtiquetasProdutos\bin\Debug\net8.0\EtiquetasProdutos.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\EtiquetasProdutos\EtiquetasProdutos\bin\Debug\net8.0\EtiquetasProdutos.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\EtiquetasProdutos\EtiquetasProdutos\obj\Debug\net8.0\EtiquetasProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\EtiquetasProdutos\EtiquetasProdutos\obj\Debug\net8.0\EtiquetasProdutos.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\EtiquetasProdutos\EtiquetasProdutos\obj\Debug\net8.0\EtiquetasProdutos.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\EtiquetasProdutos\EtiquetasProdutos\obj\Debug\net8.0\EtiquetasProdutos.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\EtiquetasProdutos\EtiquetasProdutos\obj\Debug\net8.0\EtiquetasProdutos.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\EtiquetasProdutos\EtiquetasProdutos\obj\Debug\net8.0\EtiquetasProdutos.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\EtiquetasProdutos\EtiquetasProdutos\obj\Debug\net8.0\refint\EtiquetasProdutos.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\EtiquetasProdutos\EtiquetasProdutos\obj\Debug\net8.0\EtiquetasProdutos.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\EtiquetasProdutos\EtiquetasProdutos\obj\Debug\net8.0\EtiquetasProdutos.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\EtiquetasProdutos\EtiquetasProdutos\obj\Debug\net8.0\ref\EtiquetasProdutos.dll
