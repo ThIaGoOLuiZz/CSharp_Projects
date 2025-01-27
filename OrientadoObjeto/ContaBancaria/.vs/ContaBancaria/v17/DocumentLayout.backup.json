@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\thiago.gon\\Desktop\\CSharp_Projects\\OrientadoObjeto\\ContaBancaria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D4D2C08-6664-4E5B-B9AC-C66C68C55B64}|ContaBancaria\\ContaBancaria.csproj|c:\\users\\thiago.gon\\desktop\\csharp_projects\\orientadoobjeto\\contabancaria\\contabancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D4D2C08-6664-4E5B-B9AC-C66C68C55B64}|ContaBancaria\\ContaBancaria.csproj|solutionrelative:contabancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D4D2C08-6664-4E5B-B9AC-C66C68C55B64}|ContaBancaria\\ContaBancaria.csproj|c:\\users\\thiago.gon\\desktop\\csharp_projects\\orientadoobjeto\\contabancaria\\contabancaria\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D4D2C08-6664-4E5B-B9AC-C66C68C55B64}|ContaBancaria\\ContaBancaria.csproj|solutionrelative:contabancaria\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,11 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ContaBancaria.cs",
               "DocumentMoniker": "C:\\Users\\thiago.gon\\Desktop\\CSharp_Projects\\OrientadoObjeto\\ContaBancaria\\ContaBancaria\\ContaBancaria.cs",
               "RelativeDocumentMoniker": "ContaBancaria\\ContaBancaria.cs",
@@ -31,19 +27,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T02:55:38.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\thiago.gon\\Desktop\\CSharp_Projects\\OrientadoObjeto\\ContaBancaria\\ContaBancaria\\Program.cs",
-              "RelativeDocumentMoniker": "ContaBancaria\\Program.cs",
-              "ToolTip": "C:\\Users\\thiago.gon\\Desktop\\CSharp_Projects\\OrientadoObjeto\\ContaBancaria\\ContaBancaria\\Program.cs",
-              "RelativeToolTip": "ContaBancaria\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T02:54:56.404Z",
               "EditorCaption": ""
             }
           ]
