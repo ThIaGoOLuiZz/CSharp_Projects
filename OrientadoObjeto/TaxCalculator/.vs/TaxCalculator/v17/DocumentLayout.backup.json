@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\TaxCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFED259-DE4E-4CE2-8B5D-C82B9DDBD425}|TaxCalculator\\TaxCalculator.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\taxcalculator\\taxcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFED259-DE4E-4CE2-8B5D-C82B9DDBD425}|TaxCalculator\\TaxCalculator.csproj|solutionrelative:taxcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFED259-DE4E-4CE2-8B5D-C82B9DDBD425}|TaxCalculator\\TaxCalculator.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\taxcalculator\\taxcalculator\\entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFED259-DE4E-4CE2-8B5D-C82B9DDBD425}|TaxCalculator\\TaxCalculator.csproj|solutionrelative:taxcalculator\\entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFED259-DE4E-4CE2-8B5D-C82B9DDBD425}|TaxCalculator\\TaxCalculator.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\taxcalculator\\taxcalculator\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFED259-DE4E-4CE2-8B5D-C82B9DDBD425}|TaxCalculator\\TaxCalculator.csproj|solutionrelative:taxcalculator\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFED259-DE4E-4CE2-8B5D-C82B9DDBD425}|TaxCalculator\\TaxCalculator.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\taxcalculator\\taxcalculator\\entities\\taxpayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFED259-DE4E-4CE2-8B5D-C82B9DDBD425}|TaxCalculator\\TaxCalculator.csproj|solutionrelative:taxcalculator\\entities\\taxpayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\TaxCalculator\\TaxCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "TaxCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\TaxCalculator\\TaxCalculator\\Program.cs",
+              "RelativeToolTip": "TaxCalculator\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:01:35.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\TaxCalculator\\TaxCalculator\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "TaxCalculator\\Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\TaxCalculator\\TaxCalculator\\Entities\\Company.cs",
+              "RelativeToolTip": "TaxCalculator\\Entities\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:00:25.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaxPayer.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\TaxCalculator\\TaxCalculator\\Entities\\TaxPayer.cs",
+              "RelativeDocumentMoniker": "TaxCalculator\\Entities\\TaxPayer.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\TaxCalculator\\TaxCalculator\\Entities\\TaxPayer.cs",
+              "RelativeToolTip": "TaxCalculator\\Entities\\TaxPayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:00:23.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Individual.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\TaxCalculator\\TaxCalculator\\Entities\\Individual.cs",
+              "RelativeDocumentMoniker": "TaxCalculator\\Entities\\Individual.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\TaxCalculator\\TaxCalculator\\Entities\\Individual.cs",
+              "RelativeToolTip": "TaxCalculator\\Entities\\Individual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:58:44.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
