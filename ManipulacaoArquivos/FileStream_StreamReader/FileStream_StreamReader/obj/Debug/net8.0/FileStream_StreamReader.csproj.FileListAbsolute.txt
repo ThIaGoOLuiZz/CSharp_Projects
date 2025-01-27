@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ManipulacaoArquivos\FileStream_StreamReader\FileStream_StreamReader\bin\Debug\net8.0\FileStream_StreamReader.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ManipulacaoArquivos\FileStream_StreamReader\FileStream_StreamReader\bin\Debug\net8.0\FileStream_StreamReader.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ManipulacaoArquivos\FileStream_StreamReader\FileStream_StreamReader\bin\Debug\net8.0\FileStream_StreamReader.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ManipulacaoArquivos\FileStream_StreamReader\FileStream_StreamReader\bin\Debug\net8.0\FileStream_StreamReader.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ManipulacaoArquivos\FileStream_StreamReader\FileStream_StreamReader\bin\Debug\net8.0\FileStream_StreamReader.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ManipulacaoArquivos\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\net8.0\FileStream_StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ManipulacaoArquivos\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\net8.0\FileStream_StreamReader.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ManipulacaoArquivos\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\net8.0\FileStream_StreamReader.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ManipulacaoArquivos\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\net8.0\FileStream_StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ManipulacaoArquivos\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\net8.0\FileStream_StreamReader.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ManipulacaoArquivos\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\net8.0\FileStream_StreamReader.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ManipulacaoArquivos\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\net8.0\refint\FileStream_StreamReader.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ManipulacaoArquivos\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\net8.0\FileStream_StreamReader.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ManipulacaoArquivos\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\net8.0\FileStream_StreamReader.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ManipulacaoArquivos\FileStream_StreamReader\FileStream_StreamReader\obj\Debug\net8.0\ref\FileStream_StreamReader.dll
