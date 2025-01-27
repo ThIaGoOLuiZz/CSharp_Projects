@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculoLocadoraInterface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc085fa3cb0bb81d43e6c4b5c44f667e3200dd97")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c673571a4957031b1278547416689bc70f2aeae0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculoLocadoraInterface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculoLocadoraInterface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
