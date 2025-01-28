@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContractPayment\ContractPayment\bin\Debug\net9.0\ContractPayment.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContractPayment\ContractPayment\bin\Debug\net9.0\ContractPayment.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContractPayment\ContractPayment\bin\Debug\net9.0\ContractPayment.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContractPayment\ContractPayment\bin\Debug\net9.0\ContractPayment.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContractPayment\ContractPayment\bin\Debug\net9.0\ContractPayment.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContractPayment\ContractPayment\obj\Debug\net9.0\ContractPayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContractPayment\ContractPayment\obj\Debug\net9.0\ContractPayment.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContractPayment\ContractPayment\obj\Debug\net9.0\ContractPayment.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContractPayment\ContractPayment\obj\Debug\net9.0\ContractPayment.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContractPayment\ContractPayment\obj\Debug\net9.0\ContractPayment.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContractPayment\ContractPayment\obj\Debug\net9.0\ContractPayment.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContractPayment\ContractPayment\obj\Debug\net9.0\refint\ContractPayment.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContractPayment\ContractPayment\obj\Debug\net9.0\ContractPayment.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContractPayment\ContractPayment\obj\Debug\net9.0\ContractPayment.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ContractPayment\ContractPayment\obj\Debug\net9.0\ref\ContractPayment.dll
