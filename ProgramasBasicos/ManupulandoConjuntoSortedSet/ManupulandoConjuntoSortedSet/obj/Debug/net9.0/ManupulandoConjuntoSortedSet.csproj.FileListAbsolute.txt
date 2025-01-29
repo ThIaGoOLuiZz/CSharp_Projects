@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ManupulandoConjuntoSortedSet\ManupulandoConjuntoSortedSet\bin\Debug\net9.0\ManupulandoConjuntoSortedSet.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ManupulandoConjuntoSortedSet\ManupulandoConjuntoSortedSet\bin\Debug\net9.0\ManupulandoConjuntoSortedSet.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ManupulandoConjuntoSortedSet\ManupulandoConjuntoSortedSet\bin\Debug\net9.0\ManupulandoConjuntoSortedSet.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ManupulandoConjuntoSortedSet\ManupulandoConjuntoSortedSet\bin\Debug\net9.0\ManupulandoConjuntoSortedSet.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ManupulandoConjuntoSortedSet\ManupulandoConjuntoSortedSet\bin\Debug\net9.0\ManupulandoConjuntoSortedSet.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ManupulandoConjuntoSortedSet\ManupulandoConjuntoSortedSet\obj\Debug\net9.0\ManupulandoConjuntoSortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ManupulandoConjuntoSortedSet\ManupulandoConjuntoSortedSet\obj\Debug\net9.0\ManupulandoConjuntoSortedSet.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ManupulandoConjuntoSortedSet\ManupulandoConjuntoSortedSet\obj\Debug\net9.0\ManupulandoConjuntoSortedSet.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ManupulandoConjuntoSortedSet\ManupulandoConjuntoSortedSet\obj\Debug\net9.0\ManupulandoConjuntoSortedSet.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ManupulandoConjuntoSortedSet\ManupulandoConjuntoSortedSet\obj\Debug\net9.0\ManupulandoConjuntoSortedSet.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ManupulandoConjuntoSortedSet\ManupulandoConjuntoSortedSet\obj\Debug\net9.0\ManupulandoConjuntoSortedSet.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ManupulandoConjuntoSortedSet\ManupulandoConjuntoSortedSet\obj\Debug\net9.0\refint\ManupulandoConjuntoSortedSet.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ManupulandoConjuntoSortedSet\ManupulandoConjuntoSortedSet\obj\Debug\net9.0\ManupulandoConjuntoSortedSet.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ManupulandoConjuntoSortedSet\ManupulandoConjuntoSortedSet\obj\Debug\net9.0\ManupulandoConjuntoSortedSet.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ManupulandoConjuntoSortedSet\ManupulandoConjuntoSortedSet\obj\Debug\net9.0\ref\ManupulandoConjuntoSortedSet.dll
