@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RemovingProductsPredicate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c6d92aaadcc5e1ad1dd07d3664f00316add9ffc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdd5aa529f93310037e8fb195952f79e67d6b4d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("RemovingProductsPredicate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RemovingProductsPredicate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

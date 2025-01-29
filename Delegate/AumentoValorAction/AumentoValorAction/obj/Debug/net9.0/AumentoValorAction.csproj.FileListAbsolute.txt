@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\AumentoValorAction\AumentoValorAction\bin\Debug\net9.0\AumentoValorAction.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\AumentoValorAction\AumentoValorAction\bin\Debug\net9.0\AumentoValorAction.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\AumentoValorAction\AumentoValorAction\bin\Debug\net9.0\AumentoValorAction.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\AumentoValorAction\AumentoValorAction\bin\Debug\net9.0\AumentoValorAction.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\AumentoValorAction\AumentoValorAction\bin\Debug\net9.0\AumentoValorAction.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\AumentoValorAction\AumentoValorAction\obj\Debug\net9.0\AumentoValorAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\AumentoValorAction\AumentoValorAction\obj\Debug\net9.0\AumentoValorAction.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\AumentoValorAction\AumentoValorAction\obj\Debug\net9.0\AumentoValorAction.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\AumentoValorAction\AumentoValorAction\obj\Debug\net9.0\AumentoValorAction.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\AumentoValorAction\AumentoValorAction\obj\Debug\net9.0\AumentoValorAction.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\AumentoValorAction\AumentoValorAction\obj\Debug\net9.0\AumentoValorAction.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\AumentoValorAction\AumentoValorAction\obj\Debug\net9.0\refint\AumentoValorAction.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\AumentoValorAction\AumentoValorAction\obj\Debug\net9.0\AumentoValorAction.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\AumentoValorAction\AumentoValorAction\obj\Debug\net9.0\AumentoValorAction.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\AumentoValorAction\AumentoValorAction\obj\Debug\net9.0\ref\AumentoValorAction.dll

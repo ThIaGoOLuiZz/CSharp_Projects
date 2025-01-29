@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\RemovingProductsPredicate\\",
+  "WorkspaceRootPath": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\Delegate\\RemovingProductsPredicate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8BAC06BA-FD20-48C9-B9E9-4722ED6C8E3F}|RemovingProductsPredicate\\RemovingProductsPredicate.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\removingproductspredicate\\removingproductspredicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8BAC06BA-FD20-48C9-B9E9-4722ED6C8E3F}|RemovingProductsPredicate\\RemovingProductsPredicate.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\delegate\\removingproductspredicate\\removingproductspredicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BAC06BA-FD20-48C9-B9E9-4722ED6C8E3F}|RemovingProductsPredicate\\RemovingProductsPredicate.csproj|solutionrelative:removingproductspredicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\RemovingProductsPredicate\\RemovingProductsPredicate\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\Delegate\\RemovingProductsPredicate\\RemovingProductsPredicate\\Program.cs",
               "RelativeDocumentMoniker": "RemovingProductsPredicate\\Program.cs",
-              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\RemovingProductsPredicate\\RemovingProductsPredicate\\Program.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\Delegate\\RemovingProductsPredicate\\RemovingProductsPredicate\\Program.cs",
               "RelativeToolTip": "RemovingProductsPredicate\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T14:06:44.757Z",
               "EditorCaption": ""

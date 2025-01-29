@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_Projects\\OrientadoObjeto\\RemovingProductsPredicate\\RemovingProductsPredicate\\RemovingProductsPredicate.csproj": {}
+    "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_Projects\\Delegate\\RemovingProductsPredicate\\RemovingProductsPredicate\\RemovingProductsPredicate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_Projects\\OrientadoObjeto\\RemovingProductsPredicate\\RemovingProductsPredicate\\RemovingProductsPredicate.csproj": {
+    "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_Projects\\Delegate\\RemovingProductsPredicate\\RemovingProductsPredicate\\RemovingProductsPredicate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_Projects\\OrientadoObjeto\\RemovingProductsPredicate\\RemovingProductsPredicate\\RemovingProductsPredicate.csproj",
+        "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_Projects\\Delegate\\RemovingProductsPredicate\\RemovingProductsPredicate\\RemovingProductsPredicate.csproj",
         "projectName": "RemovingProductsPredicate",
-        "projectPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_Projects\\OrientadoObjeto\\RemovingProductsPredicate\\RemovingProductsPredicate\\RemovingProductsPredicate.csproj",
+        "projectPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_Projects\\Delegate\\RemovingProductsPredicate\\RemovingProductsPredicate\\RemovingProductsPredicate.csproj",
         "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_Projects\\OrientadoObjeto\\RemovingProductsPredicate\\RemovingProductsPredicate\\obj\\",
+        "outputPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CSharp_Projects\\Delegate\\RemovingProductsPredicate\\RemovingProductsPredicate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
