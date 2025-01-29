@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ManupulandoConjuntoHashSet_SortedSet/1.0.0": {
+        "runtime": {
+          "ManupulandoConjuntoHashSet_SortedSet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ManupulandoConjuntoHashSet_SortedSet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
