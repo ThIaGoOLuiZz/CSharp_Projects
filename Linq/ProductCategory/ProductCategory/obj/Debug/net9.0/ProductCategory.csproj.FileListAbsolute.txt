@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\ProductCategory\ProductCategory\bin\Debug\net9.0\ProductCategory.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\ProductCategory\ProductCategory\bin\Debug\net9.0\ProductCategory.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\ProductCategory\ProductCategory\bin\Debug\net9.0\ProductCategory.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\ProductCategory\ProductCategory\bin\Debug\net9.0\ProductCategory.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\ProductCategory\ProductCategory\bin\Debug\net9.0\ProductCategory.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\ProductCategory\ProductCategory\obj\Debug\net9.0\ProductCategory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\ProductCategory\ProductCategory\obj\Debug\net9.0\ProductCategory.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\ProductCategory\ProductCategory\obj\Debug\net9.0\ProductCategory.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\ProductCategory\ProductCategory\obj\Debug\net9.0\ProductCategory.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\ProductCategory\ProductCategory\obj\Debug\net9.0\ProductCategory.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\ProductCategory\ProductCategory\obj\Debug\net9.0\ProductCategory.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\ProductCategory\ProductCategory\obj\Debug\net9.0\refint\ProductCategory.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\ProductCategory\ProductCategory\obj\Debug\net9.0\ProductCategory.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\ProductCategory\ProductCategory\obj\Debug\net9.0\ProductCategory.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\ProductCategory\ProductCategory\obj\Debug\net9.0\ref\ProductCategory.dll
