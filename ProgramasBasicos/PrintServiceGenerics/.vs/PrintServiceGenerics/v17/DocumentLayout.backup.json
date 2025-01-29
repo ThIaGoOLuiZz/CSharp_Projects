@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A08C0814-D30A-4FF3-A20E-B95245B318D4}|PrintServiceGenerics\\PrintServiceGenerics.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\programasbasicos\\printservicegenerics\\printservicegenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A08C0814-D30A-4FF3-A20E-B95245B318D4}|PrintServiceGenerics\\PrintServiceGenerics.csproj|solutionrelative:printservicegenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08C0814-D30A-4FF3-A20E-B95245B318D4}|PrintServiceGenerics\\PrintServiceGenerics.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\programasbasicos\\printservicegenerics\\printservicegenerics\\printservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08C0814-D30A-4FF3-A20E-B95245B318D4}|PrintServiceGenerics\\PrintServiceGenerics.csproj|solutionrelative:printservicegenerics\\printservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +28,22 @@
               "RelativeDocumentMoniker": "PrintServiceGenerics\\Program.cs",
               "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\ProgramasBasicos\\PrintServiceGenerics\\PrintServiceGenerics\\Program.cs",
               "RelativeToolTip": "PrintServiceGenerics\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T23:58:24.424Z",
+              "WhenOpened": "2025-01-29T00:20:47.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrintService.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\ProgramasBasicos\\PrintServiceGenerics\\PrintServiceGenerics\\PrintService.cs",
+              "RelativeDocumentMoniker": "PrintServiceGenerics\\PrintService.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\ProgramasBasicos\\PrintServiceGenerics\\PrintServiceGenerics\\PrintService.cs",
+              "RelativeToolTip": "PrintServiceGenerics\\PrintService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:19:41.316Z",
               "EditorCaption": ""
             }
           ]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrintServiceGenerics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc076741100b1969bf1e5d8cbd06d1ff120a0e6a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b6c12ab123a164b3bda41c8691a328b479c5e05")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrintServiceGenerics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrintServiceGenerics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
