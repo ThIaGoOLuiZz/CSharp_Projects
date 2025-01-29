@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\bin\Debug\net9.0\IniciandoLinq.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\bin\Debug\net9.0\IniciandoLinq.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\bin\Debug\net9.0\IniciandoLinq.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\bin\Debug\net9.0\IniciandoLinq.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\bin\Debug\net9.0\IniciandoLinq.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\obj\Debug\net9.0\IniciandoLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\obj\Debug\net9.0\IniciandoLinq.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\obj\Debug\net9.0\IniciandoLinq.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\obj\Debug\net9.0\IniciandoLinq.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\obj\Debug\net9.0\IniciandoLinq.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\obj\Debug\net9.0\IniciandoLinq.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\obj\Debug\net9.0\refint\IniciandoLinq.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\obj\Debug\net9.0\IniciandoLinq.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\obj\Debug\net9.0\IniciandoLinq.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\obj\Debug\net9.0\ref\IniciandoLinq.dll

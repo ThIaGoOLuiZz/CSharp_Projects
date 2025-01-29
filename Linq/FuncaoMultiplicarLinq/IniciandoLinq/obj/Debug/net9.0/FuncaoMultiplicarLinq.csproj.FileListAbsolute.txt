@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\bin\Debug\net9.0\FuncaoMultiplicarLinq.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\bin\Debug\net9.0\FuncaoMultiplicarLinq.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\bin\Debug\net9.0\FuncaoMultiplicarLinq.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\bin\Debug\net9.0\FuncaoMultiplicarLinq.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\bin\Debug\net9.0\FuncaoMultiplicarLinq.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\obj\Debug\net9.0\FuncaoMultiplicarLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\obj\Debug\net9.0\FuncaoMultiplicarLinq.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\obj\Debug\net9.0\FuncaoMultiplicarLinq.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\obj\Debug\net9.0\FuncaoMultiplicarLinq.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\obj\Debug\net9.0\FuncaoMultiplicarLinq.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\obj\Debug\net9.0\FuncaoMultiplicarLinq.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\obj\Debug\net9.0\refint\FuncaoMultiplicarLinq.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\obj\Debug\net9.0\FuncaoMultiplicarLinq.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\obj\Debug\net9.0\FuncaoMultiplicarLinq.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Linq\IniciandoLinq\IniciandoLinq\obj\Debug\net9.0\ref\FuncaoMultiplicarLinq.dll
