@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ClientCompare_GetHashCodeEquals\ClientCompare_GetHashCodeEquals\bin\Debug\net9.0\ClientCompare_GetHashCodeEquals.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ClientCompare_GetHashCodeEquals\ClientCompare_GetHashCodeEquals\bin\Debug\net9.0\ClientCompare_GetHashCodeEquals.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ClientCompare_GetHashCodeEquals\ClientCompare_GetHashCodeEquals\bin\Debug\net9.0\ClientCompare_GetHashCodeEquals.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ClientCompare_GetHashCodeEquals\ClientCompare_GetHashCodeEquals\bin\Debug\net9.0\ClientCompare_GetHashCodeEquals.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ClientCompare_GetHashCodeEquals\ClientCompare_GetHashCodeEquals\bin\Debug\net9.0\ClientCompare_GetHashCodeEquals.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ClientCompare_GetHashCodeEquals\ClientCompare_GetHashCodeEquals\obj\Debug\net9.0\ClientCompare_GetHashCodeEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ClientCompare_GetHashCodeEquals\ClientCompare_GetHashCodeEquals\obj\Debug\net9.0\ClientCompare_GetHashCodeEquals.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ClientCompare_GetHashCodeEquals\ClientCompare_GetHashCodeEquals\obj\Debug\net9.0\ClientCompare_GetHashCodeEquals.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ClientCompare_GetHashCodeEquals\ClientCompare_GetHashCodeEquals\obj\Debug\net9.0\ClientCompare_GetHashCodeEquals.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ClientCompare_GetHashCodeEquals\ClientCompare_GetHashCodeEquals\obj\Debug\net9.0\ClientCompare_GetHashCodeEquals.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ClientCompare_GetHashCodeEquals\ClientCompare_GetHashCodeEquals\obj\Debug\net9.0\ClientCompare_GetHashCodeEquals.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ClientCompare_GetHashCodeEquals\ClientCompare_GetHashCodeEquals\obj\Debug\net9.0\refint\ClientCompare_GetHashCodeEquals.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ClientCompare_GetHashCodeEquals\ClientCompare_GetHashCodeEquals\obj\Debug\net9.0\ClientCompare_GetHashCodeEquals.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ClientCompare_GetHashCodeEquals\ClientCompare_GetHashCodeEquals\obj\Debug\net9.0\ClientCompare_GetHashCodeEquals.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ClientCompare_GetHashCodeEquals\ClientCompare_GetHashCodeEquals\obj\Debug\net9.0\ref\ClientCompare_GetHashCodeEquals.dll
