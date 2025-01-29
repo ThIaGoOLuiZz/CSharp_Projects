@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\PrintServiceGenerics\PrintServiceGenerics\bin\Debug\net9.0\PrintServiceGenerics.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\PrintServiceGenerics\PrintServiceGenerics\bin\Debug\net9.0\PrintServiceGenerics.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\PrintServiceGenerics\PrintServiceGenerics\bin\Debug\net9.0\PrintServiceGenerics.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\PrintServiceGenerics\PrintServiceGenerics\bin\Debug\net9.0\PrintServiceGenerics.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\PrintServiceGenerics\PrintServiceGenerics\bin\Debug\net9.0\PrintServiceGenerics.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\PrintServiceGenerics\PrintServiceGenerics\obj\Debug\net9.0\PrintServiceGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\PrintServiceGenerics\PrintServiceGenerics\obj\Debug\net9.0\PrintServiceGenerics.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\PrintServiceGenerics\PrintServiceGenerics\obj\Debug\net9.0\PrintServiceGenerics.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\PrintServiceGenerics\PrintServiceGenerics\obj\Debug\net9.0\PrintServiceGenerics.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\PrintServiceGenerics\PrintServiceGenerics\obj\Debug\net9.0\PrintServiceGenerics.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\PrintServiceGenerics\PrintServiceGenerics\obj\Debug\net9.0\PrintServiceGenerics.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\PrintServiceGenerics\PrintServiceGenerics\obj\Debug\net9.0\refint\PrintServiceGenerics.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\PrintServiceGenerics\PrintServiceGenerics\obj\Debug\net9.0\PrintServiceGenerics.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\PrintServiceGenerics\PrintServiceGenerics\obj\Debug\net9.0\PrintServiceGenerics.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\PrintServiceGenerics\PrintServiceGenerics\obj\Debug\net9.0\ref\PrintServiceGenerics.dll

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\CalculoFigurasAbstractMethods\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9CFC7B96-4140-4F64-8FD3-3B792115047F}|CalculoFigurasAbstractMethods\\CalculoFigurasAbstractMethods.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\calculofigurasabstractmethods\\calculofigurasabstractmethods\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CFC7B96-4140-4F64-8FD3-3B792115047F}|CalculoFigurasAbstractMethods\\CalculoFigurasAbstractMethods.csproj|solutionrelative:calculofigurasabstractmethods\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFC7B96-4140-4F64-8FD3-3B792115047F}|CalculoFigurasAbstractMethods\\CalculoFigurasAbstractMethods.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\calculofigurasabstractmethods\\calculofigurasabstractmethods\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CFC7B96-4140-4F64-8FD3-3B792115047F}|CalculoFigurasAbstractMethods\\CalculoFigurasAbstractMethods.csproj|solutionrelative:calculofigurasabstractmethods\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9CFC7B96-4140-4F64-8FD3-3B792115047F}|CalculoFigurasAbstractMethods\\CalculoFigurasAbstractMethods.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\calculofigurasabstractmethods\\calculofigurasabstractmethods\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CFC7B96-4140-4F64-8FD3-3B792115047F}|CalculoFigurasAbstractMethods\\CalculoFigurasAbstractMethods.csproj|solutionrelative:calculofigurasabstractmethods\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9CFC7B96-4140-4F64-8FD3-3B792115047F}|CalculoFigurasAbstractMethods\\CalculoFigurasAbstractMethods.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\calculofigurasabstractmethods\\calculofigurasabstractmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CFC7B96-4140-4F64-8FD3-3B792115047F}|CalculoFigurasAbstractMethods\\CalculoFigurasAbstractMethods.csproj|solutionrelative:calculofigurasabstractmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CFC7B96-4140-4F64-8FD3-3B792115047F}|CalculoFigurasAbstractMethods\\CalculoFigurasAbstractMethods.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\calculofigurasabstractmethods\\calculofigurasabstractmethods\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CFC7B96-4140-4F64-8FD3-3B792115047F}|CalculoFigurasAbstractMethods\\CalculoFigurasAbstractMethods.csproj|solutionrelative:calculofigurasabstractmethods\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\CalculoFigurasAbstractMethods\\CalculoFigurasAbstractMethods\\Entities\\Shape.cs",
               "RelativeDocumentMoniker": "CalculoFigurasAbstractMethods\\Entities\\Shape.cs",
@@ -44,7 +48,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\CalculoFigurasAbstractMethods\\CalculoFigurasAbstractMethods\\Entities\\Rectangle.cs",
               "RelativeDocumentMoniker": "CalculoFigurasAbstractMethods\\Entities\\Rectangle.cs",
@@ -53,12 +57,24 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T16:09:15.096Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\CalculoFigurasAbstractMethods\\CalculoFigurasAbstractMethods\\Entities\\Enums\\Color.cs",
+              "RelativeDocumentMoniker": "CalculoFigurasAbstractMethods\\Entities\\Enums\\Color.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\CalculoFigurasAbstractMethods\\CalculoFigurasAbstractMethods\\Entities\\Enums\\Color.cs",
+              "RelativeToolTip": "CalculoFigurasAbstractMethods\\Entities\\Enums\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T23:37:34.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Circle.cs",
               "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\CalculoFigurasAbstractMethods\\CalculoFigurasAbstractMethods\\Entities\\Circle.cs",
               "RelativeDocumentMoniker": "CalculoFigurasAbstractMethods\\Entities\\Circle.cs",
@@ -71,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\CalculoFigurasAbstractMethods\\CalculoFigurasAbstractMethods\\Program.cs",
               "RelativeDocumentMoniker": "CalculoFigurasAbstractMethods\\Program.cs",
@@ -79,8 +95,7 @@
               "RelativeToolTip": "CalculoFigurasAbstractMethods\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAowBAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T16:04:31.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T16:04:31.339Z"
             }
           ]
         }
