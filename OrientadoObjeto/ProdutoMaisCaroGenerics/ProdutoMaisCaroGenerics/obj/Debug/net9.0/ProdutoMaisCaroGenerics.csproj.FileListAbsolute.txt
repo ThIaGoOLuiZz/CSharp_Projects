@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ProdutoMaisCaroGenerics\ProdutoMaisCaroGenerics\bin\Debug\net9.0\ProdutoMaisCaroGenerics.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ProdutoMaisCaroGenerics\ProdutoMaisCaroGenerics\bin\Debug\net9.0\ProdutoMaisCaroGenerics.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ProdutoMaisCaroGenerics\ProdutoMaisCaroGenerics\bin\Debug\net9.0\ProdutoMaisCaroGenerics.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ProdutoMaisCaroGenerics\ProdutoMaisCaroGenerics\bin\Debug\net9.0\ProdutoMaisCaroGenerics.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ProdutoMaisCaroGenerics\ProdutoMaisCaroGenerics\bin\Debug\net9.0\ProdutoMaisCaroGenerics.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ProdutoMaisCaroGenerics\ProdutoMaisCaroGenerics\obj\Debug\net9.0\ProdutoMaisCaroGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ProdutoMaisCaroGenerics\ProdutoMaisCaroGenerics\obj\Debug\net9.0\ProdutoMaisCaroGenerics.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ProdutoMaisCaroGenerics\ProdutoMaisCaroGenerics\obj\Debug\net9.0\ProdutoMaisCaroGenerics.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ProdutoMaisCaroGenerics\ProdutoMaisCaroGenerics\obj\Debug\net9.0\ProdutoMaisCaroGenerics.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ProdutoMaisCaroGenerics\ProdutoMaisCaroGenerics\obj\Debug\net9.0\ProdutoMaisCaroGenerics.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ProdutoMaisCaroGenerics\ProdutoMaisCaroGenerics\obj\Debug\net9.0\ProdutoMaisCaroGenerics.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ProdutoMaisCaroGenerics\ProdutoMaisCaroGenerics\obj\Debug\net9.0\refint\ProdutoMaisCaroGenerics.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ProdutoMaisCaroGenerics\ProdutoMaisCaroGenerics\obj\Debug\net9.0\ProdutoMaisCaroGenerics.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ProdutoMaisCaroGenerics\ProdutoMaisCaroGenerics\obj\Debug\net9.0\ProdutoMaisCaroGenerics.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\ProdutoMaisCaroGenerics\ProdutoMaisCaroGenerics\obj\Debug\net9.0\ref\ProdutoMaisCaroGenerics.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\ProdutoMaisCaroGenerics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFEAB38-0C2E-4571-A2D5-8374B9E1B2D9}|ProdutoMaisCaroGenerics\\ProdutoMaisCaroGenerics.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\produtomaiscarogenerics\\produtomaiscarogenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFEAB38-0C2E-4571-A2D5-8374B9E1B2D9}|ProdutoMaisCaroGenerics\\ProdutoMaisCaroGenerics.csproj|solutionrelative:produtomaiscarogenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFEAB38-0C2E-4571-A2D5-8374B9E1B2D9}|ProdutoMaisCaroGenerics\\ProdutoMaisCaroGenerics.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\produtomaiscarogenerics\\produtomaiscarogenerics\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFEAB38-0C2E-4571-A2D5-8374B9E1B2D9}|ProdutoMaisCaroGenerics\\ProdutoMaisCaroGenerics.csproj|solutionrelative:produtomaiscarogenerics\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFEAB38-0C2E-4571-A2D5-8374B9E1B2D9}|ProdutoMaisCaroGenerics\\ProdutoMaisCaroGenerics.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_projects\\orientadoobjeto\\produtomaiscarogenerics\\produtomaiscarogenerics\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFEAB38-0C2E-4571-A2D5-8374B9E1B2D9}|ProdutoMaisCaroGenerics\\ProdutoMaisCaroGenerics.csproj|solutionrelative:produtomaiscarogenerics\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\ProdutoMaisCaroGenerics\\ProdutoMaisCaroGenerics\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProdutoMaisCaroGenerics\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\ProdutoMaisCaroGenerics\\ProdutoMaisCaroGenerics\\Entities\\Product.cs",
+              "RelativeToolTip": "ProdutoMaisCaroGenerics\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T01:06:05.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\ProdutoMaisCaroGenerics\\ProdutoMaisCaroGenerics\\Services\\CalculationService.cs",
+              "RelativeDocumentMoniker": "ProdutoMaisCaroGenerics\\Services\\CalculationService.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\ProdutoMaisCaroGenerics\\ProdutoMaisCaroGenerics\\Services\\CalculationService.cs",
+              "RelativeToolTip": "ProdutoMaisCaroGenerics\\Services\\CalculationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:35:15.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\ProdutoMaisCaroGenerics\\ProdutoMaisCaroGenerics\\Program.cs",
+              "RelativeDocumentMoniker": "ProdutoMaisCaroGenerics\\Program.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_Projects\\OrientadoObjeto\\ProdutoMaisCaroGenerics\\ProdutoMaisCaroGenerics\\Program.cs",
+              "RelativeToolTip": "ProdutoMaisCaroGenerics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:34:14.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
