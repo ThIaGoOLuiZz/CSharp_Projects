@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\MaxValueCalc\MaxValueCalc\bin\Debug\net9.0\MaxValueCalc.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\MaxValueCalc\MaxValueCalc\bin\Debug\net9.0\MaxValueCalc.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\MaxValueCalc\MaxValueCalc\bin\Debug\net9.0\MaxValueCalc.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\MaxValueCalc\MaxValueCalc\bin\Debug\net9.0\MaxValueCalc.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\MaxValueCalc\MaxValueCalc\bin\Debug\net9.0\MaxValueCalc.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\MaxValueCalc\MaxValueCalc\obj\Debug\net9.0\MaxValueCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\MaxValueCalc\MaxValueCalc\obj\Debug\net9.0\MaxValueCalc.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\MaxValueCalc\MaxValueCalc\obj\Debug\net9.0\MaxValueCalc.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\MaxValueCalc\MaxValueCalc\obj\Debug\net9.0\MaxValueCalc.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\MaxValueCalc\MaxValueCalc\obj\Debug\net9.0\MaxValueCalc.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\MaxValueCalc\MaxValueCalc\obj\Debug\net9.0\MaxValueCalc.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\MaxValueCalc\MaxValueCalc\obj\Debug\net9.0\refint\MaxValueCalc.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\MaxValueCalc\MaxValueCalc\obj\Debug\net9.0\MaxValueCalc.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\MaxValueCalc\MaxValueCalc\obj\Debug\net9.0\MaxValueCalc.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\OrientadoObjeto\MaxValueCalc\MaxValueCalc\obj\Debug\net9.0\ref\MaxValueCalc.dll
