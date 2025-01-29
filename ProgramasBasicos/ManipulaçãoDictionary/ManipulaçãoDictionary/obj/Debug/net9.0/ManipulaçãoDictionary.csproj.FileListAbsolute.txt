@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\ManipulaçãoDictionary\ManipulaçãoDictionary\bin\Debug\net9.0\ManipulaçãoDictionary.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\ManipulaçãoDictionary\ManipulaçãoDictionary\bin\Debug\net9.0\ManipulaçãoDictionary.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\ManipulaçãoDictionary\ManipulaçãoDictionary\bin\Debug\net9.0\ManipulaçãoDictionary.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\ManipulaçãoDictionary\ManipulaçãoDictionary\bin\Debug\net9.0\ManipulaçãoDictionary.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\ManipulaçãoDictionary\ManipulaçãoDictionary\bin\Debug\net9.0\ManipulaçãoDictionary.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\ManipulaçãoDictionary\ManipulaçãoDictionary\obj\Debug\net9.0\ManipulaçãoDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\ManipulaçãoDictionary\ManipulaçãoDictionary\obj\Debug\net9.0\ManipulaçãoDictionary.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\ManipulaçãoDictionary\ManipulaçãoDictionary\obj\Debug\net9.0\ManipulaçãoDictionary.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\ManipulaçãoDictionary\ManipulaçãoDictionary\obj\Debug\net9.0\ManipulaçãoDictionary.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\ManipulaçãoDictionary\ManipulaçãoDictionary\obj\Debug\net9.0\ManipulaçãoDictionary.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\ManipulaçãoDictionary\ManipulaçãoDictionary\obj\Debug\net9.0\ManipulaçãoDictionary.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\ManipulaçãoDictionary\ManipulaçãoDictionary\obj\Debug\net9.0\refint\ManipulaçãoDictionary.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\ManipulaçãoDictionary\ManipulaçãoDictionary\obj\Debug\net9.0\ManipulaçãoDictionary.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\ManipulaçãoDictionary\ManipulaçãoDictionary\obj\Debug\net9.0\ManipulaçãoDictionary.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\ProgramasBasicos\ManipulaçãoDictionary\ManipulaçãoDictionary\obj\Debug\net9.0\ref\ManipulaçãoDictionary.dll
