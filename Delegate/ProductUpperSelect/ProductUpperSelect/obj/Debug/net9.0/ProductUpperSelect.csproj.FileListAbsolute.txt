@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\ProductUpperSelect\ProductUpperSelect\bin\Debug\net9.0\ProductUpperSelect.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\ProductUpperSelect\ProductUpperSelect\bin\Debug\net9.0\ProductUpperSelect.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\ProductUpperSelect\ProductUpperSelect\bin\Debug\net9.0\ProductUpperSelect.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\ProductUpperSelect\ProductUpperSelect\bin\Debug\net9.0\ProductUpperSelect.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\ProductUpperSelect\ProductUpperSelect\bin\Debug\net9.0\ProductUpperSelect.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\ProductUpperSelect\ProductUpperSelect\obj\Debug\net9.0\ProductUpperSelect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\ProductUpperSelect\ProductUpperSelect\obj\Debug\net9.0\ProductUpperSelect.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\ProductUpperSelect\ProductUpperSelect\obj\Debug\net9.0\ProductUpperSelect.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\ProductUpperSelect\ProductUpperSelect\obj\Debug\net9.0\ProductUpperSelect.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\ProductUpperSelect\ProductUpperSelect\obj\Debug\net9.0\ProductUpperSelect.sourcelink.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\ProductUpperSelect\ProductUpperSelect\obj\Debug\net9.0\ProductUpperSelect.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\ProductUpperSelect\ProductUpperSelect\obj\Debug\net9.0\refint\ProductUpperSelect.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\ProductUpperSelect\ProductUpperSelect\obj\Debug\net9.0\ProductUpperSelect.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\ProductUpperSelect\ProductUpperSelect\obj\Debug\net9.0\ProductUpperSelect.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CSharp_Projects\Delegate\ProductUpperSelect\ProductUpperSelect\obj\Debug\net9.0\ref\ProductUpperSelect.dll
